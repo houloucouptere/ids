@@ -1,0 +1,500 @@
+Heure;Protocole1;IPSource;PortSource;IPDestination;PortDestination;Protocole2;Typedepaquet;id;seq;length;Flags;A;B;C;D;Label
+19:16:00.067737;IP;localhost;43531; localhost;domain;;;;;;49079;[1au];A?;media.carambo.la.;-45;1
+19:16:00.068045;IP;localhost;domain ; localhost;43531;;;;;;49079;3/0/1;CNAME;cs807.wac.13115.alphacdn.net.,;CNAME;1
+19:16:00.068079;IP;localhost;43531; localhost;domain;;;;;;55233;[1au];AAAA?;media.carambo.la.;-45;1
+19:16:00.068266;IP;localhost;domain ; localhost;43531;;;;;;55233;2/0/1;CNAME;cs807.wac.13115.alphacdn.net.,;CNAME;1
+19:16:00.888218;IP;localhost;56451; localhost;domain;;;;;;48245;[1au];PTR?;53.0.0.127.in-addr.arpa.;-52;1
+19:16:00.888396;IP;localhost;domain ; localhost;56451;;;;;;48245;1/0/1;PTR;localhost.;-75;1
+19:16:02.276617;IP;localhost;51963; localhost;domain;;;;;;39049;[1au];A?;sic.33across.com.;-45;1
+19:16:02.276980;IP;localhost;domain ; localhost;51963;;;;;;39049;2/0/1;CNAME;chi.sic.33across.com.,;A;1
+19:16:02.277160;IP;localhost;51963; localhost;domain;;;;;;45203;[1au];AAAA?;sic.33across.com.;-45;1
+19:16:02.277314;IP;localhost;domain ; localhost;51963;;;;;;45203;1/0/1;CNAME;chi.sic.33across.com.;-63;1
+19:16:02.278436;IP;localhost;60655; localhost;domain;;;;;;40083;[1au];A?;sic.33across.com.;-45;1
+19:16:02.278623;IP;localhost;domain ; localhost;60655;;;;;;40083;2/0/1;CNAME;chi.sic.33across.com.,;A;1
+19:16:02.657845;IP;localhost;36731; localhost;domain;;;;;;27244;[1au];A?;ssc.33across.com.;-45;1
+19:16:02.658163;IP;localhost;domain ; localhost;36731;;;;;;27244;3/0/1;CNAME;33xchange-1576862511.us-east-1.elb.a;;1
+19:16:02.658200;IP;localhost;36731; localhost;domain;;;;;;28279;[1au];AAAA?;ssc.33across.com.;-45;1
+19:16:02.658348;IP;localhost;domain ; localhost;36731;;;;;;28279;1/0/1;CNAME;33xchange-1576862511.us-east-1.elb.a;;1
+19:16:02.817404;IP;localhost;33784; localhost;domain;;;;;;60867;[1au];A?;browser.pipe.aria.microsoft.com.;-60;1
+19:16:02.817917;IP;localhost;33784; localhost;domain;;;;;;51664;[1au];AAAA?;browser.pipe.aria.microsoft.com.;(6;1
+19:16:02.839890;IP;localhost;domain ; localhost;33784;;;;;;51664;2/0/1;CNAME;browser.events.data.trafficmanager.n;;1
+19:16:02.839998;IP;localhost;domain ; localhost;33784;;;;;;60867;3/0/1;CNAME;browser.events.data.trafficmanager.n;;1
+19:16:03.358967;IP;localhost;46745; localhost;domain;;;;;;35820;[1au];A?;browser.pipe.aria.microsoft.com.;-60;1
+19:16:03.359366;IP;localhost;domain ; localhost;46745;;;;;;35820;3/0/1;CNAME;browser.events.data.trafficmanager.n;;1
+19:16:03.359409;IP;localhost;46745; localhost;domain;;;;;;50166;[1au];AAAA?;browser.pipe.aria.microsoft.com.;(6;1
+19:16:03.359616;IP;localhost;domain ; localhost;46745;;;;;;50166;2/0/1;CNAME;browser.events.data.trafficmanager.n;;1
+19:16:03.463393;IP;localhost;40052; localhost;domain;;;;;;24960;[1au];A?;ib.adnxs.com.;-41;1
+19:16:03.463781;IP;localhost;domain ; localhost;40052;;;;;;24960;10/0/1;CNAME;g.geogslb.com.,;CNAME;1
+19:16:03.463942;IP;localhost;40052; localhost;domain;;;;;;31115;[1au];AAAA?;ib.adnxs.com.;-41;1
+19:16:03.464139;IP;localhost;domain ; localhost;40052;;;;;;31115;2/0/1;CNAME;g.geogslb.com.,;CNAME;1
+19:16:03.478229;IP;localhost;37753; localhost;domain;;;;;;18846;[1au];A?;ib.adnxs.com.;-41;1
+19:16:03.478565;IP;localhost;domain ; localhost;37753;;;;;;18846;10/0/1;CNAME;g.geogslb.com.,;CNAME;1
+19:16:03.478704;IP;localhost;37753; localhost;domain;;;;;;60840;[1au];AAAA?;ib.adnxs.com.;-41;1
+19:16:03.478898;IP;localhost;domain ; localhost;37753;;;;;;60840;2/0/1;CNAME;g.geogslb.com.,;CNAME;1
+19:16:03.487126;IP;localhost;55016; localhost;domain;;;;;;47566;[1au];A?;ib.adnxs.com.;-41;1
+19:16:03.487445;IP;localhost;domain ; localhost;55016;;;;;;47566;10/0/1;CNAME;g.geogslb.com.,;CNAME;1
+19:16:03.487679;IP;localhost;55016; localhost;domain;;;;;;2521;[1au];AAAA?;ib.adnxs.com.;-41;1
+19:16:03.487881;IP;localhost;domain ; localhost;55016;;;;;;2521;2/0/1;CNAME;g.geogslb.com.,;CNAME;1
+19:16:09.171771;IP;localhost;46398; localhost;domain;;;;;;59794;[1au];A?;tcf.admeen.org.;-43;1
+19:16:09.172129;IP;localhost;domain ; localhost;46398;;;;;;59794;2/0/1;A;104.24.16.66,;A;1
+19:16:09.172179;IP;localhost;46398; localhost;domain;;;;;;41373;[1au];AAAA?;tcf.admeen.org.;-43;1
+19:16:09.173613;IP;localhost;47347; localhost;domain;;;;;;32028;[1au];A?;tcf.admeen.org.;-43;1
+19:16:09.173785;IP;localhost;domain ; localhost;47347;;;;;;32028;2/0/1;A;104.24.16.66,;A;1
+19:16:09.193242;IP;localhost;domain ; localhost;46398;;;;;;41373;0/0/1;-43;;;1
+19:16:09.384330;IP;localhost;46448; localhost;domain;;;;;;5869;[1au];A?;tcf.admeen.org.;-43;1
+19:16:09.384519;IP;localhost;domain ; localhost;46448;;;;;;5869;2/0/1;A;104.24.16.66,;A;1
+19:16:09.385196;IP;localhost;46448; localhost;domain;;;;;;44791;[1au];AAAA?;tcf.admeen.org.;-43;1
+19:16:09.385323;IP;localhost;domain ; localhost;46448;;;;;;44791;0/0/1;-43;;;1
+19:16:09.705566;IP;localhost;40806; localhost;domain;;;;;;6720;[1au];A?;api.html5games.com.;-47;1
+19:16:09.706123;IP;localhost;40806; localhost;domain;;;;;;63052;[1au];AAAA?;api.html5games.com.;-47;1
+19:16:09.708932;IP;localhost;52101; localhost;domain;;;;;;682;[1au];A?;api.html5games.com.;-47;1
+19:16:09.714368;IP;localhost;37845; localhost;domain;;;;;;59084;[1au];A?;www.1001jeux.fr.;-44;1
+19:16:09.714671;IP;localhost;domain ; localhost;37845;;;;;;59084;2/0/1;A;104.26.2.46,;A;1
+19:16:09.714720;IP;localhost;37845; localhost;domain;;;;;;40665;[1au];AAAA?;www.1001jeux.fr.;-44;1
+19:16:09.714859;IP;localhost;domain ; localhost;37845;;;;;;40665;2/0/1;AAAA;2606;;1
+19:16:09.729163;IP;localhost;domain ; localhost;40806;;;;;;6720;1/0/1;A;35.187.121.151;-63;1
+19:16:09.729245;IP;localhost;domain ; localhost;52101;;;;;;682;1/0/1;A;35.187.121.151;-63;1
+19:16:09.731104;IP;localhost;domain ; localhost;40806;;;;;;63052;0/0/1;-47;;;1
+19:16:18.056006;IP;localhost;48781; localhost;domain;;;;;;38644;[1au];A?;connectivity-check.ubuntu.com.;-58;1
+19:16:18.056506;IP;localhost;48781; localhost;domain;;;;;;62205;[1au];AAAA?;connectivity-check.ubuntu.com.;-58;1
+19:16:18.078493;IP;localhost;domain ; localhost;48781;;;;;;38644;2/0/1;A;35.224.99.156,;A;1
+19:16:18.080840;IP;localhost;domain ; localhost;48781;;;;;;-58;;;;0;1
+19:16:22.843835;IP;localhost ;; localhost;;ICMP;echo request;50472;0;8;;;;;;0
+19:16:22.843849;IP;localhost ;; localhost;;ICMP;eco reply;50472;256;8;;;;;;0
+19:16:22.944347;IP;localhost ;; localhost;;ICMP;echo request;50472;256;8;;;;;;0
+19:16:22.944362;IP;localhost ;; localhost;;ICMP;eco reply;50472;512;8;;;;;;0
+19:16:23.044522;IP;localhost ;; localhost;;ICMP;echo request;50472;512;8;;;;;;0
+19:16:23.044536;IP;localhost ;; localhost;;ICMP;eco reply;50472;768;8;;;;;;0
+19:16:23.144752;IP;localhost ;; localhost;;ICMP;echo request;50472;768;8;;;;;;0
+19:16:23.144768;IP;localhost ;; localhost;;ICMP;eco reply;50472;1024;8;;;;;;0
+19:16:23.244922;IP;localhost ;; localhost;;ICMP;echo request;50472;1024;8;;;;;;0
+19:16:23.244938;IP;localhost ;; localhost;;ICMP;eco reply;50472;1280;8;;;;;;0
+19:16:23.345183;IP;localhost ;; localhost;;ICMP;echo request;50472;1280;8;;;;;;0
+19:16:23.345197;IP;localhost ;; localhost;;ICMP;eco reply;50472;1536;8;;;;;;0
+19:16:23.445333;IP;localhost ;; localhost;;ICMP;echo request;50472;1536;8;;;;;;0
+19:16:23.445348;IP;localhost ;; localhost;;ICMP;eco reply;50472;1792;8;;;;;;0
+19:16:23.545558;IP;localhost ;; localhost;;ICMP;echo request;50472;1792;8;;;;;;0
+19:16:23.545573;IP;localhost ;; localhost;;ICMP;eco reply;50472;2048;8;;;;;;0
+19:16:23.645755;IP;localhost ;; localhost;;ICMP;echo request;50472;2048;8;;;;;;0
+19:16:23.645771;IP;localhost ;; localhost;;ICMP;eco reply;50472;2304;8;;;;;;0
+19:16:23.745995;IP;localhost ;; localhost;;ICMP;echo request;50472;2304;8;;;;;;0
+19:16:23.746014;IP;localhost ;; localhost;;ICMP;eco reply;50472;2560;8;;;;;;0
+19:16:23.846170;IP;localhost ;; localhost;;ICMP;echo request;50472;2560;8;;;;;;0
+19:16:23.846186;IP;localhost ;; localhost;;ICMP;eco reply;50472;2816;8;;;;;;0
+19:16:23.946391;IP;localhost ;; localhost;;ICMP;echo request;50472;2816;8;;;;;;0
+19:16:23.946407;IP;localhost ;; localhost;;ICMP;eco reply;50472;3072;8;;;;;;0
+19:16:24.046593;IP;localhost ;; localhost;;ICMP;echo request;50472;3072;8;;;;;;0
+19:16:24.046609;IP;localhost ;; localhost;;ICMP;eco reply;50472;3328;8;;;;;;0
+19:16:24.146809;IP;localhost ;; localhost;;ICMP;echo request;50472;3328;8;;;;;;0
+19:16:24.146825;IP;localhost ;; localhost;;ICMP;eco reply;50472;3584;8;;;;;;0
+19:16:24.247003;IP;localhost ;; localhost;;ICMP;echo request;50472;3584;8;;;;;;0
+19:16:24.247018;IP;localhost ;; localhost;;ICMP;eco reply;50472;3840;8;;;;;;0
+19:16:24.347724;IP;localhost ;; localhost;;ICMP;echo request;50472;3840;8;;;;;;0
+19:16:24.347738;IP;localhost ;; localhost;;ICMP;eco reply;50472;4096;8;;;;;;0
+19:16:24.448433;IP;localhost ;; localhost;;ICMP;echo request;50472;4096;8;;;;;;0
+19:16:24.448447;IP;localhost ;; localhost;;ICMP;eco reply;50472;4352;8;;;;;;0
+19:16:24.548622;IP;localhost ;; localhost;;ICMP;echo request;50472;4352;8;;;;;;0
+19:16:24.548636;IP;localhost ;; localhost;;ICMP;eco reply;50472;4608;8;;;;;;0
+19:16:24.648797;IP;localhost ;; localhost;;ICMP;echo request;50472;4608;8;;;;;;0
+19:16:24.648812;IP;localhost ;; localhost;;ICMP;eco reply;50472;4864;8;;;;;;0
+19:16:24.749038;IP;localhost ;; localhost;;ICMP;echo request;50472;4864;8;;;;;;0
+19:16:24.749053;IP;localhost ;; localhost;;ICMP;eco reply;50472;5120;8;;;;;;0
+19:16:24.849214;IP;localhost ;; localhost;;ICMP;echo request;50472;5120;8;;;;;;0
+19:16:24.849230;IP;localhost ;; localhost;;ICMP;eco reply;50472;5376;8;;;;;;0
+19:16:24.949439;IP;localhost ;; localhost;;ICMP;echo request;50472;5376;8;;;;;;0
+19:16:24.949454;IP;localhost ;; localhost;;ICMP;eco reply;50472;5632;8;;;;;;0
+19:16:25.049780;IP;localhost ;; localhost;;ICMP;echo request;50472;5632;8;;;;;;0
+19:16:25.049823;IP;localhost ;; localhost;;ICMP;eco reply;50472;5888;8;;;;;;0
+19:16:25.150425;IP;localhost ;; localhost;;ICMP;echo request;50472;5888;8;;;;;;0
+19:16:25.150441;IP;localhost ;; localhost;;ICMP;eco reply;50472;6144;8;;;;;;0
+19:16:25.250548;IP;localhost ;; localhost;;ICMP;echo request;50472;6144;8;;;;;;0
+19:16:25.250564;IP;localhost ;; localhost;;ICMP;eco reply;50472;6400;8;;;;;;0
+19:16:25.350738;IP;localhost ;; localhost;;ICMP;echo request;50472;6400;8;;;;;;0
+19:16:25.350754;IP;localhost ;; localhost;;ICMP;eco reply;50472;6656;8;;;;;;0
+19:16:25.450970;IP;localhost ;; localhost;;ICMP;echo request;50472;6656;8;;;;;;0
+19:16:25.450987;IP;localhost ;; localhost;;ICMP;eco reply;50472;6912;8;;;;;;0
+19:16:25.551149;IP;localhost ;; localhost;;ICMP;echo request;50472;6912;8;;;;;;0
+19:16:25.551165;IP;localhost ;; localhost;;ICMP;eco reply;50472;7168;8;;;;;;0
+19:16:25.651403;IP;localhost ;; localhost;;ICMP;echo request;50472;7168;8;;;;;;0
+19:16:25.651418;IP;localhost ;; localhost;;ICMP;eco reply;50472;7424;8;;;;;;0
+19:16:25.751565;IP;localhost ;; localhost;;ICMP;echo request;50472;7424;8;;;;;;0
+19:16:25.751580;IP;localhost ;; localhost;;ICMP;eco reply;50472;7680;8;;;;;;0
+19:16:25.851795;IP;localhost ;; localhost;;ICMP;echo request;50472;7680;8;;;;;;0
+19:16:25.851809;IP;localhost ;; localhost;;ICMP;eco reply;50472;7936;8;;;;;;0
+19:16:25.951972;IP;localhost ;; localhost;;ICMP;echo request;50472;7936;8;;;;;;0
+19:16:25.951989;IP;localhost ;; localhost;;ICMP;eco reply;50472;8192;8;;;;;;0
+19:16:26.052701;IP;localhost ;; localhost;;ICMP;echo request;50472;8192;8;;;;;;0
+19:16:26.052723;IP;localhost ;; localhost;;ICMP;eco reply;50472;8448;8;;;;;;0
+19:16:26.158340;IP;localhost ;; localhost;;ICMP;echo request;50472;8448;8;;;;;;0
+19:16:26.158359;IP;localhost ;; localhost;;ICMP;eco reply;50472;8704;8;;;;;;0
+19:16:26.258488;IP;localhost ;; localhost;;ICMP;echo request;50472;8704;8;;;;;;0
+19:16:26.258504;IP;localhost ;; localhost;;ICMP;eco reply;50472;;;;;;;;0
+19:16:26.340439;IP;localhost;35331; localhost;domain;;;;;;47306;[1au];A?;data38.adlooxtracking.com.;-54;1
+19:16:26.340721;IP;localhost;domain ; localhost;35331;;;;;;47306;1/0/1;A;137.74.93.132;-70;1
+19:16:26.340759;IP;localhost;35331; localhost;domain;;;;;;19669;[1au];AAAA?;data38.adlooxtracking.com.;-54;1
+19:16:26.340855;IP;localhost;domain ; localhost;35331;;;;;;19669;0/0/1;-54;;;0
+19:16:26.358660;IP;localhost ;; localhost;;ICMP;;50472;;;;;;;;0
+19:16:26.358676;IP;localhost ;; localhost;;ICMP;;50472;;;;;;;;0
+19:16:26.365515;IP;localhost;44953; localhost;domain;;;;;;41467;[1au];A?;analytics.carambo.la.;-49;1
+19:16:26.365812;IP;localhost;domain ; localhost;44953;;;;;;41467;5/0/1;CNAME;cbola-analytics-c5-6.us-east-1.elast;;1
+19:16:26.366673;IP;localhost;44953; localhost;domain;;;;;;26887;[1au];AAAA?;analytics.carambo.la.;-49;1
+19:16:26.366873;IP;localhost;domain ; localhost;44953;;;;;;26887;1/0/1;CNAME;cbola-analytics-c5-6.us-east-1.elast;;1
+19:16:26.399944;IP;localhost;51678; localhost;domain;;;;;;55021;[1au];A?;stats.g.doubleclick.net.;-52;1
+19:16:26.400374;IP;localhost;51678; localhost;domain;;;;;;22264;[1au];AAAA?;stats.g.doubleclick.net.;-52;1
+19:16:26.400533;IP;localhost;domain ; localhost;51678;;;;;;22264;2/0/1;CNAME;stats.l.doubleclick.net.,;AAAA;1
+19:16:26.400830;IP;localhost;47358; localhost;domain;;;;;;12017;[1au];A?;connect.facebook.net.;-49;1
+19:16:26.401316;IP;localhost;47358; localhost;domain;;;;;;63224;[1au];AAAA?;connect.facebook.net.;-49;1
+19:16:26.423439;IP;localhost;domain ; localhost;51678;;;;;;55021;5/0/1;CNAME;stats.l.doubleclick.net.,;A;1
+19:16:26.425348;IP;localhost;domain ; localhost;47358;;;;;;63224;2/0/1;CNAME;scontent.xx.fbcdn.net.,;AAAA;1
+19:16:26.425427;IP;localhost;domain ; localhost;47358;;;;;;12017;2/0/1;CNAME;scontent.xx.fbcdn.net.,;A;1
+19:16:26.459386;IP;localhost ;; localhost;;ICMP;echo request;50472;;;;;;;;0
+19:16:26.459400;IP;localhost ;; localhost;;ICMP;echo reply;50472;;;;;;;;0
+19:16:26.491834;IP;localhost;51612; localhost;domain;;;;;;59841;[1au];A?;www.1001jeux.fr.;-44;1
+19:16:26.492030;IP;localhost;domain ; localhost;51612;;;;;;59841;2/0/1;A;104.26.2.46,;A;1
+19:16:26.492063;IP;localhost;51612; localhost;domain;;;;;;50635;[1au];AAAA?;www.1001jeux.fr.;-44;1
+19:16:26.492155;IP;localhost;domain ; localhost;51612;;;;;;50635;2/0/1;AAAA;2606;;1
+19:16:26.534416;IP;localhost;53730; localhost;domain;;;;;;44413;[1au];A?;logging.carambo.la.;-47;1
+19:16:26.534744;IP;localhost;domain ; localhost;53730;;;;;;44413;3/0/1;CNAME;cbola-logging-1-t3.us-east-1.elastic;;1
+19:16:26.534782;IP;localhost;53730; localhost;domain;;;;;;39304;[1au];AAAA?;logging.carambo.la.;-47;1
+19:16:26.560065;IP;localhost ;; localhost;;ICMP;echo request;;;;;;50472;;9472;1
+19:16:26.560079;IP;localhost ;; localhost;;ICMP;echo reply;;;;;;50472;;;1
+19:16:26.577003;IP;localhost;domain ; localhost;53730;;;;;;39304;1/0/1;CNAME;cbola-logging-1-t3.us-east-1.elastic;;1
+19:16:26.660328;IP;localhost ;; localhost;;ICMP;echo request;50472;9728;8;;;;;;0
+19:16:26.660345;IP;localhost ;; localhost;;ICMP;echo reply;50472;9984;8;;;;;;0
+19:16:26.760497;IP;localhost ;; localhost;;ICMP;echo request;50472;9984;8;;;;;;0
+19:16:26.760513;IP;localhost ;; localhost;;ICMP;echo reply;50472;10240;8;;;;;;0
+19:16:26.860680;IP;localhost ;; localhost;;ICMP;echo request;50472;10240;8;;;;;;0
+19:16:26.860695;IP;localhost ;; localhost;;ICMP;echo reply;50472;10496;8;;;;;;0
+19:16:26.960931;IP;localhost ;; localhost;;ICMP;echo request;50472;10496;8;;;;;;0
+19:16:26.960946;IP;localhost ;; localhost;;ICMP;echo reply;50472;10752;8;;;;;;0
+19:16:27.061140;IP;localhost ;; localhost;;ICMP;echo request;50472;10752;8;;;;;;0
+19:16:27.061155;IP;localhost ;; localhost;;ICMP;echo reply;50472;11008;8;;;;;;0
+19:16:27.161289;IP;localhost ;; localhost;;ICMP;echo request;50472;11008;8;;;;;;0
+19:16:27.161306;IP;localhost ;; localhost;;ICMP;echo reply;;;;;;50472;;;0
+19:16:27.246636;IP;localhost;60815; localhost;domain;;;;;;26378;[1au];A?;games.cdn.famobi.com.;-49;1
+19:16:27.247007;IP;localhost;domain ; localhost;60815;;;;;;26378;3/0/1;CNAME;2-01-330e-0038.cdx.hccdn.com.,;CNAME;1
+19:16:27.247045;IP;localhost;60815; localhost;domain;;;;;;8981;[1au];AAAA?;games.cdn.famobi.com.;-49;1
+19:16:27.247297;IP;localhost;domain ; localhost;60815;;;;;;8981;2/0/1;CNAME;2-01-330e-0038.cdx.hccdn.com.,;CNAME;1
+19:16:27.261549;IP;localhost ;; localhost;;ICMP;echo request;50472;;;;;;;;1
+19:16:27.261563;IP;localhost ;; localhost;;ICMP;echo reply;50472;;;;;;;;1
+19:16:27.272867;IP;localhost;41933; localhost;domain;;;;;;4943;[1au];A?;ccf.admeen.org.;-43;1
+19:16:27.273133;IP;localhost;domain ; localhost;41933;;;;;;4943;2/0/1;A;104.24.16.66,;A;1
+19:16:27.273183;IP;localhost;41933; localhost;domain;;;;;;43872;[1au];AAAA?;ccf.admeen.org.;-43;1
+19:16:27.275284;IP;localhost;60442; localhost;domain;;;;;;14292;[1au];A?;ccf.admeen.org.;-43;1
+19:16:27.275467;IP;localhost;domain ; localhost;60442;;;;;;14292;2/0/1;A;104.24.16.66,;A;1
+19:16:27.296922;IP;localhost;domain ; localhost;41933;;;;;;43872;0/0/1;-43;;;1
+19:16:27.361700;IP;localhost ;; localhost;;ICMP;echo request;50472;11520;8;;;;;;0
+19:16:27.361715;IP;localhost ;; localhost;;ICMP;echo reply;50472;11776;8;;;;;;0
+19:16:27.461918;IP;localhost ;; localhost;;ICMP;echo request;50472;11776;8;;;;;;0
+19:16:27.461933;IP;localhost ;; localhost;;ICMP;echo reply;50472;11776;8;;;;;;0
+19:16:27.479695;IP;localhost;57896; localhost;domain;;;;;;313;[1au];A?;www.googletagmanager.com.;-53;1
+19:16:27.482312;IP;localhost;57896; localhost;domain;;;;;;25924;[1au];AAAA?;www.googletagmanager.com.;-53;1
+19:16:27.482554;IP;localhost;domain ; localhost;57896;;;;;;25924;2/0/1;CNAME;www-googletagmanager.l.google.com.,;;1
+19:16:27.505070;IP;localhost;domain ; localhost;57896;;;;;;313;2/0/1;CNAME;www-googletagmanager.l.google.com.,;A;1
+19:16:27.514316;IP;localhost;46433; localhost;domain;;;;;;63829;[1au];A?;ccf.admeen.org.;-43;1
+19:16:27.514511;IP;localhost;domain ; localhost;46433;;;;;;63829;2/0/1;A;104.24.16.66,;A;1
+19:16:27.515494;IP;localhost;46433; localhost;domain;;;;;;25951;[1au];AAAA?;ccf.admeen.org.;-43;1
+19:16:27.515644;IP;localhost;domain ; localhost;46433;;;;;;25951;0/0/1;-43;;;1
+19:16:27.528354;IP;localhost;37461; localhost;domain;;;;;;60576;[1au];A?;ccf.admeen.org.;-43;1
+19:16:27.528539;IP;localhost;domain ; localhost;37461;;;;;;60576;2/0/1;A;104.24.16.66,;A;1
+19:16:27.528572;IP;localhost;37461; localhost;domain;;;;;;8363;[1au];AAAA?;ccf.admeen.org.;-43;1
+19:16:27.528661;IP;localhost;domain ; localhost;37461;;;;;;8363;0/0/1;-43;;;1
+19:16:27.538031;IP;localhost;49895; localhost;domain;;;;;;8848;[1au];A?;ccf.admeen.org.;-43;1
+19:16:27.538217;IP;localhost;domain ; localhost;49895;;;;;;8848;2/0/1;A;104.24.16.66,;A;1
+19:16:27.538250;IP;localhost;49895; localhost;domain;;;;;;42649;[1au];AAAA?;ccf.admeen.org.;-43;1
+19:16:27.538339;IP;localhost;domain ; localhost;49895;;;;;;42649;0/0/1;-43;;;1
+19:16:27.557235;IP;localhost;36253; localhost;domain;;;;;;51402;[1au];A?;ccf.admeen.org.;-43;1
+19:16:27.557422;IP;localhost;domain ; localhost;36253;;;;;;51402;2/0/1;A;104.24.16.66,;A;1
+19:16:27.557454;IP;localhost;36253; localhost;domain;;;;;;10453;[1au];AAAA?;ccf.admeen.org.;-43;1
+19:16:27.557542;IP;localhost;domain ; localhost;36253;;;;;;10453;0/0/1;-43;;;1
+19:16:27.562108;IP;localhost ;; localhost;;ICMP;echo request;50472;12032;8;;;;;;0
+19:16:27.562121;IP;localhost ;; localhost;;ICMP;echo reply;50472;12032;8;;;;;;0
+19:16:27.662364;IP;localhost ;; localhost;;ICMP;echo request;50472;12288;8;;;;;;0
+19:16:27.662384;IP;localhost ;; localhost;;ICMP;echo reply;50472;12288;8;;;;;;0
+19:16:27.762564;IP;localhost ;; localhost;;ICMP;echo request;50472;12544;8;;;;;;0
+19:16:27.762586;IP;localhost ;; localhost;;ICMP;echo reply;50472;12544;8;;;;;;0
+19:16:27.794897;IP;localhost;35602; localhost;domain;;;;;;3639;[1au];A?;ccf.admeen.org.;-43;1
+19:16:27.795094;IP;localhost;domain ; localhost;35602;;;;;;3639;2/0/1;A;104.24.16.66,;A;1
+19:16:27.795128;IP;localhost;35602; localhost;domain;;;;;;3649;[1au];AAAA?;ccf.admeen.org.;-43;1
+19:16:27.795215;IP;localhost;domain ; localhost;35602;;;;;;3649;0/0/1;-43;;;1
+19:16:27.801359;IP;localhost;46943; localhost;domain;;;;;;60954;[1au];A?;ccf.admeen.org.;-43;1
+19:16:27.801663;IP;localhost;domain ; localhost;46943;;;;;;60954;2/0/1;A;104.24.16.66,;A;1
+19:16:27.801704;IP;localhost;46943; localhost;domain;;;;;;11812;[1au];AAAA?;ccf.admeen.org.;-43;1
+19:16:27.801802;IP;localhost;domain ; localhost;46943;;;;;;11812;0/0/1;-43;;;1
+19:16:27.863250;IP;localhost ;; localhost;;ICMP;echo request;50472;12800;8;;;;;;0
+19:16:27.863270;IP;localhost ;; localhost;;ICMP;echo reply;50472;13056;8;;;;;;0
+19:16:27.963476;IP;localhost ;; localhost;;ICMP;echo request;50472;13056;8;;;;;;0
+19:16:27.963491;IP;localhost ;; localhost;;ICMP;echo reply;50472;13312;8;;;;;;0
+19:16:28.063642;IP;localhost ;; localhost;;ICMP;echo request;50472;13312;8;;;;;;0
+19:16:28.063657;IP;localhost ;; localhost;;ICMP;echo reply;50472;13568;8;;;;;;0
+19:16:28.164349;IP;localhost ;; localhost;;ICMP;echo request;50472;13568;8;;;;;;0
+19:16:28.164366;IP;localhost ;; localhost;;ICMP;echo reply;50472;13824;8;;;;;;0
+19:16:28.265031;IP;localhost ;; localhost;;ICMP;echo request;50472;13824;8;;;;;;0
+19:16:28.265051;IP;localhost ;; localhost;;ICMP;echo reply;50472;14080;8;;;;;;0
+19:16:28.365274;IP;localhost ;; localhost;;ICMP;echo request;50472;14080;8;;;;;;0
+19:16:28.365290;IP;localhost ;; localhost;;ICMP;echo reply;50472;14336;8;;;;;;0
+19:16:28.465466;IP;localhost ;; localhost;;ICMP;echo request;50472;14336;8;;;;;;0
+19:16:28.465484;IP;localhost ;; localhost;;ICMP;echo reply;50472;14592;8;;;;;;0
+19:16:28.565731;IP;localhost ;; localhost;;ICMP;echo request;50472;14592;8;;;;;;0
+19:16:28.565751;IP;localhost ;; localhost;;ICMP;echo reply;50472;14848;8;;;;;;0
+19:16:28.666380;IP;localhost ;; localhost;;ICMP;echo request;50472;14848;8;;;;;;0
+19:16:28.666395;IP;localhost ;; localhost;;ICMP;echo reply;50472;14848;;;;;;;0
+19:16:28.732969;IP;localhost;37852; localhost;domain;;;;;;50594;[1au];A?;ccf.admeen.org.;-43;1
+19:16:28.733172;IP;localhost;domain ; localhost;37852;;;;;;50594;2/0/1;A;104.24.16.66,;A;1
+19:16:28.733260;IP;localhost;37852; localhost;domain;;;;;;429;[1au];AAAA?;ccf.admeen.org.;-43;1
+19:16:28.733421;IP;localhost;domain ; localhost;37852;;;;;;429;0/0/1;-43;;;1
+19:16:28.741346;IP;localhost;39823; localhost;domain;;;;;;45750;[1au];A?;ccf.admeen.org.;-43;1
+19:16:28.741566;IP;localhost;domain ; localhost;39823;;;;;;45750;2/0/1;A;104.24.16.66,;A;1
+19:16:28.741600;IP;localhost;39823; localhost;domain;;;;;;43716;[1au];AAAA?;ccf.admeen.org.;-43;1
+19:16:28.741688;IP;localhost;domain ; localhost;39823;;;;;;43716;0/0/1;-43;;;1
+19:16:28.766538;IP;localhost ;; localhost;;ICMP;echo request;50472;14848;8;;;;;;0
+19:16:28.766552;IP;localhost ;; localhost;;ICMP;echo reply;50472;14848;;;;;;;0
+19:16:28.767659;IP;localhost;38279; localhost;domain;;;;;;21080;[1au];A?;ccf.admeen.org.;-43;1
+19:16:28.767853;IP;localhost;domain ; localhost;38279;;;;;;21080;2/0/1;A;104.24.16.66,;A;1
+19:16:28.767970;IP;localhost;38279; localhost;domain;;;;;;35426;[1au];AAAA?;ccf.admeen.org.;-43;1
+19:16:28.768075;IP;localhost;domain ; localhost;38279;;;;;;35426;0/0/1;-43;;;1
+19:16:28.785810;IP;localhost;32998; localhost;domain;;;;;;36855;[1au];A?;ccf.admeen.org.;-43;1
+19:16:28.786061;IP;localhost;domain ; localhost;32998;;;;;;36855;2/0/1;A;104.24.16.66,;A;1
+19:16:28.786105;IP;localhost;32998; localhost;domain;;;;;;33537;[1au];AAAA?;ccf.admeen.org.;-43;1
+19:16:28.786210;IP;localhost;domain ; localhost;32998;;;;;;33537;0/0/1;-43;;;1
+19:16:28.866846;IP;localhost ;; localhost;;ICMP;echo request;50472;14848;8;;;;;;0
+19:16:28.866863;IP;localhost ;; localhost;;ICMP;echo reply;50472;14848;;;;;;;0
+19:16:28.966974;IP;localhost ;; localhost;;ICMP;echo request;50472;14848;8;;;;;;0
+19:16:28.966992;IP;localhost ;; localhost;;ICMP;echo reply;50472;14848;;;;;;;0
+19:16:29.067712;IP;localhost ;; localhost;;ICMP;echo request;50472;14848;8;;;;;;0
+19:16:29.067728;IP;localhost ;; localhost;;ICMP;echo reply;50472;14848;;;;;;;0
+19:16:29.168393;IP;localhost ;; localhost;;ICMP;echo request;50472;14848;8;;;;;;0
+19:16:29.168408;IP;localhost ;; localhost;;ICMP;echo reply;50472;14848;;;;;;;0
+19:16:29.185296;IP;localhost;39591; localhost;domain;;;;;;39404;[1au];A?;www.google-analytics.com.;-53;1
+19:16:29.185750;IP;localhost;39591; localhost;domain;;;;;;33273;[1au];AAAA?;www.google-analytics.com.;-53;1
+19:16:29.208519;IP;localhost;domain ; localhost;39591;;;;;;39404;2/0/1;CNAME;www-google-analytics.l.google.com.,;;1
+19:16:29.210173;IP;localhost;domain ; localhost;39591;;;;;;33273;2/0/1;CNAME;www-google-analytics.l.google.com.,;;1
+19:16:29.269050;IP;localhost ;; localhost;;ICMP;echo request;50472;14848;8;;;;;;0
+19:16:29.269064;IP;localhost ;; localhost;;ICMP;echo reply;50472;14848;;;;;;;0
+19:16:29.357012;IP;localhost;42337; localhost;domain;;;;;;56730;[1au];A?;play.famobi.com.;-44;1
+19:16:29.357450;IP;localhost;42337; localhost;domain;;;;;;49549;[1au];AAAA?;play.famobi.com.;-44;1
+19:16:29.357600;IP;localhost;domain ; localhost;42337;;;;;;49549;2/0/1;CNAME;api.famobi.com.,;AAAA;1
+19:16:29.360412;IP;localhost;57184; localhost;domain;;;;;;36181;[1au];A?;play.famobi.com.;-44;1
+19:16:29.369553;IP;localhost ;; localhost;;ICMP;echo request;50472;14848;8;;;;;;0
+19:16:29.369569;IP;localhost ;; localhost;;ICMP;echo reply;50472;14848;;;;;;;0
+19:16:29.378729;IP;localhost;domain ; localhost;42337;;;;;;56730;2/0/1;CNAME;api.famobi.com.,;A;1
+19:16:29.378764;IP;localhost;domain ; localhost;57184;;;;;;36181;2/0/1;CNAME;api.famobi.com.,;A;1
+19:16:29.469846;IP;localhost;50156; localhost;domain;;;;;;25718;[1au];A?;player.tubia.com.;-45;1
+19:16:29.470105;IP;localhost;domain ; localhost;50156;;;;;;25718;2/0/1;A;104.26.3.53,;A;1
+19:16:29.470172;IP;localhost ;; localhost;;ICMP;echo request;50472;14848;8;;;;;;0
+19:16:29.470180;IP;localhost ;; localhost;;ICMP;echo reply;50472;14848;;;;;;;0
+19:16:29.470418;IP;localhost;50156; localhost;domain;;;;;;21633;[1au];AAAA?;player.tubia.com.;-45;1
+19:16:29.471230;IP;localhost;46203; localhost;domain;;;;;;45074;[1au];A?;player.tubia.com.;-45;1
+19:16:29.471421;IP;localhost;domain ; localhost;46203;;;;;;45074;2/0/1;A;104.26.3.53,;A;1
+19:16:29.491979;IP;localhost;domain ; localhost;50156;;;;;;21633;2/0/1;AAAA;2606;;1
+19:16:29.570553;IP;localhost ;; localhost;;ICMP;echo request;50472;17152;8;;;;;;0
+19:16:29.570569;IP;localhost ;; localhost;;ICMP;echo reply;50472;17152;8;;;;;;0
+19:16:29.579735;IP;localhost;50742; localhost;domain;;;;;;53987;[1au];A?;www.1001jeux.fr.;-44;1
+19:16:29.580043;IP;localhost;domain ; localhost;50742;;;;;;53987;2/0/1;A;104.26.2.46,;A;1
+19:16:29.580104;IP;localhost;50742; localhost;domain;;;;;;1776;[1au];AAAA?;www.1001jeux.fr.;-44;1
+19:16:29.580209;IP;localhost;domain ; localhost;50742;;;;;;1776;2/0/1;AAAA;2606;;1
+19:16:29.590405;IP;localhost;47330; localhost;domain;;;;;;12098;[1au];A?;ccf.admeen.org.;-43;1
+19:16:29.590805;IP;localhost;domain ; localhost;47330;;;;;;12098;2/0/1;A;104.24.16.66,;A;1
+19:16:29.590853;IP;localhost;47330; localhost;domain;;;;;;31567;[1au];AAAA?;ccf.admeen.org.;-43;1
+19:16:29.590986;IP;localhost;domain ; localhost;47330;;;;;;31567;0/0/1;-43;;;0
+19:16:29.670869;IP;localhost ;; localhost;;;;;;;;;;;;0
+19:16:29.670884;IP;localhost ;; localhost;;;;;;;;;;;;0
+19:16:29.730438;IP;localhost;40862; localhost;domain;;;;;;14049;[1au];A?;tcf.admeen.org.;-43;1
+19:16:29.730667;IP;localhost;domain ; localhost;40862;;;;;;14049;2/0/1;A;104.24.16.66,;A;1
+19:16:29.731772;IP;localhost;40862; localhost;domain;;;;;;24306;[1au];AAAA?;tcf.admeen.org.;-43;1
+19:16:29.731983;IP;localhost;domain ; localhost;40862;;;;;;24306;0/0/1;-43;;;1
+19:16:29.771775;IP;localhost ;; localhost;;;;;;;;;;;;0
+19:16:29.771795;IP;localhost ;; localhost;;;;;;;;;;;;0
+19:16:29.812791;IP;localhost;53714; localhost;domain;;;;;;44684;[1au];A?;tcf.admeen.org.;-43;1
+19:16:29.813043;IP;localhost;domain ; localhost;53714;;;;;;44684;2/0/1;A;104.24.16.66,;A;1
+19:16:29.813085;IP;localhost;53714; localhost;domain;;;;;;13981;[1au];AAAA?;tcf.admeen.org.;-43;1
+19:16:29.813209;IP;localhost;domain ; localhost;53714;;;;;;13981;0/0/1;-43;;;1
+19:16:29.819665;IP;localhost;49606; localhost;domain;;;;;;33912;[1au];A?;tcf.admeen.org.;-43;1
+19:16:29.819905;IP;localhost;domain ; localhost;49606;;;;;;33912;2/0/1;A;104.24.16.66,;A;1
+19:16:29.819945;IP;localhost;49606; localhost;domain;;;;;;64645;[1au];AAAA?;tcf.admeen.org.;-43;1
+19:16:29.820068;IP;localhost;domain ; localhost;49606;;;;;;64645;0/0/1;-43;;;1
+19:16:29.839124;IP;localhost;57860; localhost;domain;;;;;;25727;[1au];A?;tcf.admeen.org.;-43;1
+19:16:29.839342;IP;localhost;domain ; localhost;57860;;;;;;25727;2/0/1;A;104.24.16.66,;A;1
+19:16:29.839386;IP;localhost;57860; localhost;domain;;;;;;30857;[1au];AAAA?;tcf.admeen.org.;-43;1
+19:16:29.839602;IP;localhost;domain ; localhost;57860;;;;;;30857;0/0/1;-43;;;1
+19:16:29.857306;IP;localhost;36327; localhost;domain;;;;;;23667;[1au];A?;tcf.admeen.org.;-43;1
+19:16:29.857574;IP;localhost;domain ; localhost;36327;;;;;;23667;2/0/1;A;104.24.16.66,;A;1
+19:16:29.857619;IP;localhost;36327; localhost;domain;;;;;;47229;[1au];AAAA?;tcf.admeen.org.;-43;1
+19:16:29.857736;IP;localhost;domain ; localhost;36327;;;;;;47229;0/0/1;-43;;;0
+19:16:29.872299;IP;localhost ;; localhost;;ICMP;echo request;50472;18176;8;;;;;;0
+19:16:29.872322;IP;localhost ;; localhost;;ICMP;echo reply;50472;18432;8;;;;;;0
+19:16:29.905965;IP;localhost;48804; localhost;domain;;;;;;19123;[1au];A?;tcf.admeen.org.;-43;1
+19:16:29.906185;IP;localhost;domain ; localhost;48804;;;;;;19123;2/0/1;A;104.24.16.66,;A;1
+19:16:29.906796;IP;localhost;48804; localhost;domain;;;;;;5821;[1au];AAAA?;tcf.admeen.org.;-43;1
+19:16:29.907014;IP;localhost;domain ; localhost;48804;;;;;;5821;0/0/1;-43;;;0
+19:16:29.972507;IP;localhost ;; localhost;;ICMP;echo request;50472;18176;8;;;;;;0
+19:16:29.972527;IP;localhost ;; localhost;;ICMP;echo reply;50472;18432;8;;;;;;0
+19:16:30.072742;IP;localhost ;; localhost;;ICMP;echo request;50472;18433;9;;;;;;0
+19:16:30.072762;IP;localhost ;; localhost;;ICMP;echo reply;50472;18604;9;;;;;;0
+19:16:30.115523;IP;localhost;50195; localhost;domain;;;;;;26719;[1au];A?;www.google-analytics.com.;-53;1
+19:16:30.115842;IP;localhost;domain ; localhost;50195;;;;;;26719;2/0/1;CNAME;www-google-analytics.l.google.com.,;;1
+19:16:30.115901;IP;localhost;50195; localhost;domain;;;;;;14442;[1au];AAAA?;www.google-analytics.com.;-53;1
+19:16:30.116054;IP;localhost;domain ; localhost;50195;;;;;;14442;2/0/1;CNAME;www-google-analytics.l.google.com.,;;1
+19:16:30.131631;IP;localhost;50593; localhost;domain;;;;;;21569;[1au];A?;stats.g.doubleclick.net.;-52;1
+19:16:30.131926;IP;localhost;domain ; localhost;50593;;;;;;21569;5/0/1;CNAME;stats.l.doubleclick.net.,;A;1
+19:16:30.131971;IP;localhost;50593; localhost;domain;;;;;;49228;[1au];AAAA?;stats.g.doubleclick.net.;-52;1
+19:16:30.132516;IP;localhost;domain ; localhost;50593;;;;;;49228;2/0/1;CNAME;stats.l.doubleclick.net.,;AAAA;1
+19:16:30.172942;IP;localhost ;; localhost;;ICMP;echo request;50472;18433;9;;;;;;0
+19:16:30.172959;IP;localhost ;; localhost;;ICMP;echo reply;50472;18604;9;;;;;;0
+19:16:30.232770;IP;localhost;49968; localhost;domain;;;;;;35951;[1au];A?;www.google-analytics.com.;-53;1
+19:16:30.233244;IP;localhost;domain ; localhost;49968;;;;;;35951;2/0/1;CNAME;www-google-analytics.l.google.com.,;;1
+19:16:30.233309;IP;localhost;49968; localhost;domain;;;;;;59516;[1au];AAAA?;www.google-analytics.com.;-53;1
+19:16:30.233517;IP;localhost;domain ; localhost;49968;;;;;;59516;2/0/1;CNAME;www-google-analytics.l.google.com.,;;1
+19:16:30.238989;IP;localhost;33165; localhost;domain;;;;;;43545;[1au];A?;stats.g.doubleclick.net.;-52;1
+19:16:30.239463;IP;localhost;domain ; localhost;33165;;;;;;43545;5/0/1;CNAME;stats.l.doubleclick.net.,;A;1
+19:16:30.239522;IP;localhost;33165; localhost;domain;;;;;;40487;[1au];AAAA?;stats.g.doubleclick.net.;-52;1
+19:16:30.239817;IP;localhost;domain ; localhost;33165;;;;;;40487;2/0/1;CNAME;stats.l.doubleclick.net.,;AAAA;1
+19:16:30.244035;IP;localhost;57234; localhost;domain;;;;;;49200;[1au];A?;www.google-analytics.com.;-53;1
+19:16:30.244391;IP;localhost;domain ; localhost;57234;;;;;;49200;2/0/1;CNAME;www-google-analytics.l.google.com.,;;1
+19:16:30.244440;IP;localhost;57234; localhost;domain;;;;;;42047;[1au];AAAA?;www.google-analytics.com.;-53;1
+19:16:30.244743;IP;localhost;domain ; localhost;57234;;;;;;42047;2/0/1;CNAME;www-google-analytics.l.google.com.,;;1
+19:16:30.270399;IP;localhost;44316; localhost;domain;;;;;;3787;[1au];A?;www.google-analytics.com.;-53;1
+19:16:30.270851;IP;localhost;domain ; localhost;44316;;;;;;3787;2/0/1;CNAME;www-google-analytics.l.google.com.,;A;1
+19:16:30.271325;IP;localhost;44316; localhost;domain;;;;;;13017;[1au];AAAA?;www.google-analytics.com.;-53;1
+19:16:30.271632;IP;localhost;domain ; localhost;44316;;;;;;13017;2/0/1;CNAME;www-google-analytics.l.google.com.,;;1
+19:16:30.273788;IP;localhost ;; localhost;;ICMP;echo request;50472;18944;8;;;;;;0
+19:16:30.273803;IP;localhost ;; localhost;;ICMP;echo reply;50472;18944;8;;;;;;0
+19:16:30.327068;IP;localhost;41703; localhost;domain;;;;;;2065;[1au];A?;www.google-analytics.com.;-53;1
+19:16:30.327467;IP;localhost;domain ; localhost;41703;;;;;;2065;2/0/1;CNAME;www-google-analytics.l.google.com.,;A;1
+19:16:30.327515;IP;localhost;41703; localhost;domain;;;;;;28701;[1au];AAAA?;www.google-analytics.com.;-53;1
+19:16:30.327675;IP;localhost;domain ; localhost;41703;;;;;;28701;2/0/1;CNAME;www-google-analytics.l.google.com.,;;1
+19:16:30.370455;IP;localhost;34956; localhost;domain;;;;;;30237;[1au];A?;www.google-analytics.com.;-53;1
+19:16:30.370884;IP;localhost;domain ; localhost;34956;;;;;;30237;2/0/1;CNAME;www-google-analytics.l.google.com.,;;1
+19:16:30.370942;IP;localhost;34956; localhost;domain;;;;;;55848;[1au];AAAA?;www.google-analytics.com.;-53;1
+19:16:30.371198;IP;localhost;domain ; localhost;34956;;;;;;55848;2/0/1;CNAME;www-google-analytics.l.google.com.,;;1
+19:16:30.374301;IP;localhost ;; localhost;;ICMP;echo request;50472;19200;8;;;;;;0
+19:16:30.374321;IP;localhost ;; localhost;;ICMP;echo reply;50472;19456;8;;;;;;0
+19:16:30.475037;IP;localhost ;; localhost;;ICMP;echo request;50472;19456;8;;;;;;0
+19:16:30.475060;IP;localhost ;; localhost;;ICMP;echo reply;50472;19712;8;;;;;;0
+19:16:30.575186;IP;localhost ;; localhost;;ICMP;echo request;50472;19712;8;;;;;;0
+19:16:30.575201;IP;localhost ;; localhost;;ICMP;echo reply;50472;19712;8;;;;;;0
+19:16:30.667769;IP;localhost;50003; localhost;domain;;;;;;46669;[1au];A?;static.h-bid.com.;-45;1
+19:16:30.668490;IP;localhost;50003; localhost;domain;;;;;;21084;[1au];AAAA?;static.h-bid.com.;-45;1
+19:16:30.669723;IP;localhost;33682; localhost;domain;;;;;;49722;[1au];A?;static.h-bid.com.;-45;1
+19:16:30.675893;IP;localhost ;; localhost;;ICMP;echo request;50472;19968;8;;;;;;0
+19:16:30.675908;IP;localhost ;; localhost;;ICMP;echo reply;50472;19968;8;;;;;;0
+19:16:30.689829;IP;localhost;domain ; localhost;50003;;;;;;46669;2/0/1;CNAME;429520581.r.cdnsun.net.,;A;1
+19:16:30.689888;IP;localhost;domain ; localhost;33682;;;;;;49722;2/0/1;CNAME;429520581.r.cdnsun.net.,;A;1
+19:16:30.776131;IP;localhost ;; localhost;;ICMP;echo request;50472;20224;8;;;;;;0
+19:16:30.776144;IP;localhost ;; localhost;;ICMP;echo reply;50472;20480;8;;;;;;0
+19:16:30.876274;IP;localhost ;; localhost;;ICMP;echo request;50472;20480;8;;;;;;0
+19:16:30.876289;IP;localhost ;; localhost;;ICMP;echo reply;50472;20736;8;;;;;;0
+19:16:30.977047;IP;localhost ;; localhost;;ICMP;echo request;50472;20736;8;;;;;;0
+19:16:30.977065;IP;localhost ;; localhost;;ICMP;echo reply;50472;20992;8;;;;;;0
+19:16:31.077657;IP;localhost ;; localhost;;ICMP;echo request;50472;20992;8;;;;;;0
+19:16:31.077672;IP;localhost ;; localhost;;ICMP;echo reply;50472;21248;8;;;;;;0
+19:16:31.177885;IP;localhost ;; localhost;;ICMP;echo request;50472;21248;8;;;;;;0
+19:16:31.177900;IP;localhost ;; localhost;;ICMP;echo reply;50472;21248;8;;;;;;0
+19:16:31.202286;IP;localhost;domain ; localhost;;;;;21084;;;1/0/1;CNAME;429520581.r.cdnsun.net.;-81;1
+19:16:31.278061;IP;localhost ;; localhost;;ICMP;echo request;50472;21504;8;;;;;;0
+19:16:31.278077;IP;localhost ;; localhost;;ICMP;echo reply;50472;20224;8;;;;;;0
+19:16:31.354162;IP;localhost;53519; localhost;domain;;;;;;2414;[1au];A?;cdn.tubia.com.;-42;1
+19:16:31.354595;IP;localhost;53519; localhost;domain;;;;;;13688;[1au];AAAA?;cdn.tubia.com.;-42;1
+19:16:31.375844;IP;localhost;domain ; localhost;53519;;;;;;2414;4/0/1;CNAME;di-j6a123de.leasewebultracdn.com.,;CN;1
+19:16:31.376491;IP;localhost;54497; localhost;domain;;;;;;36272;[1au];A?;js.honeybadger.io.;-46;1
+19:16:31.376798;IP;localhost;54497; localhost;domain;;;;;;441;[1au];AAAA?;js.honeybadger.io.;-46;1
+19:16:31.377434;IP;localhost;domain ; localhost;53519;;;;;;13688;2/0/1;CNAME;di-j6a123de.leasewebultracdn.com.,;C;1
+19:16:31.378253;IP;localhost ;; localhost;;ICMP;echo request;50472;21760;8;;;;;;0
+19:16:31.378265;IP;localhost ;; localhost;;ICMP;echo reply;50472;21760;8;;;;;;0
+19:16:31.398609;IP;localhost;domain ; localhost;54497;;;;;;441;0/0/1;-46;;;0
+19:16:31.417595;IP;localhost;domain ; localhost;54497;;;;;;36272;4/0/1;A;143.204.222.109,;A;0
+19:16:31.478466;IP;localhost ;; localhost;;ICMP;echo request;50472;22016;8;;;;;;0
+19:16:31.478481;IP;localhost ;; localhost;;ICMP;echo reply;50472;22272;8;;;;;;0
+19:16:31.578755;IP;localhost ;; localhost;;ICMP;echo request;50472;22272;8;;;;;;0
+19:16:31.578771;IP;localhost ;; localhost;;ICMP;echo reply;50472;;8;;;;;;0
+19:16:31.628611;IP;localhost;50989; localhost;domain;;;;;;22985;[1au];A?;www.facebook.com.;-45;0
+19:16:31.629053;IP;localhost;50989; localhost;domain;;;;;;1492;[1au];AAAA?;www.facebook.com.;-45;0
+19:16:31.651125;IP;localhost;domain ; localhost;50989;;;;;;22985;2/0/1;CNAME;star-mini.c10r.facebook.com.,;A;0
+19:16:31.653076;IP;localhost;domain ; localhost;50989;;;;;;1492;2/0/1;CNAME;star-mini.c10r.facebook.com.,;AAAA;0
+19:16:31.678904;IP;localhost ;; localhost;;ICMP;echo request;50472;22528;8;;;;;;0
+19:16:31.678918;IP;localhost ;; localhost;;ICMP;echo reply;50472;22784;8;;;;;;0
+19:16:31.779117;IP;localhost ;; localhost;;ICMP;echo request;50472;22784;8;;;;;;0
+19:16:31.779131;IP;localhost ;; localhost;;ICMP;echo reply;50472;23040;8;;;;;;0
+19:16:31.879350;IP;localhost ;; localhost;;ICMP;echo request;50472;23040;8;;;;;;0
+19:16:31.879365;IP;localhost ;; localhost;;ICMP;echo reply;50472;23296;8;;;;;;0
+19:16:31.980062;IP;localhost ;; localhost;;ICMP;echo request;50472;23296;8;;;;;;0
+19:16:31.980077;IP;localhost ;; localhost;;ICMP;echo reply;50472;23552;8;;;;;;0
+19:16:32.080705;IP;localhost ;; localhost;;ICMP;echo request;50472;23552;8;;;;;;0
+19:16:32.080722;IP;localhost ;; localhost;;ICMP;echo reply;50472;23552;8;;;;;;0
+19:16:32.142721;IP;localhost;41431; localhost;domain;;;;;;5672;[1au];A?;imasdk.googleapis.com.;-50;0
+19:16:32.142995;IP;localhost;domain ; localhost;41431;;;;;;5672;1/0/1;A;172.217.18.202;-66;0
+19:16:32.143127;IP;localhost;41431; localhost;domain;;;;;;45618;[1au];AAAA?;imasdk.googleapis.com.;-50;0
+19:16:32.144046;IP;localhost;55114; localhost;domain;;;;;;32507;[1au];A?;imasdk.googleapis.com.;-50;0
+19:16:32.144234;IP;localhost;domain ; localhost;55114;;;;;;32507;1/0/1;A;172.217.18.202;-66;0
+19:16:32.150385;IP;localhost;54723; localhost;domain;;;;;;27352;[1au];A?;adservice.google.com.tr.;-52;0
+19:16:32.150757;IP;localhost;54723; localhost;domain;;;;;;48866;[1au];AAAA?;adservice.google.com.tr.;-52;0
+19:16:32.157747;IP;localhost;47374; localhost;domain;;;;;;47738;[1au];A?;adservice.google.com.tr.;-52;0
+19:16:32.169345;IP;localhost;domain ; localhost;41431;;;;;;45618;1/0/1;AAAA;2a00;;0
+19:16:32.172827;IP;localhost;domain ; localhost;54723;;;;;;48866;2/0/1;CNAME;pagead46.l.doubleclick.net.,;AAAA;0
+19:16:32.173059;IP;localhost;domain ; localhost;47374;;;;;;47738;2/0/1;CNAME;pagead46.l.doubleclick.net.,;A;0
+19:16:32.173195;IP;localhost;domain ; localhost;54723;;;;;;27352;2/0/1;CNAME;pagead46.l.doubleclick.net.,;A;0
+19:16:32.175519;IP;localhost;49974; localhost;domain;;;;;;32908;[1au];A?;api.tubia.com.;-42;0
+19:16:32.175996;IP;localhost;49974; localhost;domain;;;;;;49304;[1au];AAAA?;api.tubia.com.;-42;0
+19:16:32.177586;IP;localhost;47071; localhost;domain;;;;;;57372;[1au];A?;api.tubia.com.;-42;0
+19:16:32.181191;IP;localhost ;; localhost;;ICMP;;50472;23808;8;;;;;;0
+19:16:32.181207;IP;localhost ;; localhost;;ICMP;;50472;23808;8;;;;;;0
+19:16:32.199197;IP;localhost;domain ; localhost;49974;;;;;;49304;2/0/1;AAAA;2606;;0
+19:16:32.199295;IP;localhost;domain ; localhost;49974;;;;;;32908;2/0/1;A;104.26.3.53,;A;0
+19:16:32.199319;IP;localhost;domain ; localhost;47071;;;;;;57372;2/0/1;A;104.26.3.53,;A;0
+19:16:32.203711;IP;localhost;60887; localhost;domain;;;;;;12374;[1au];A?;tags.crwdcntrl.net.;-47;0
+19:16:32.204101;IP;localhost;60887; localhost;domain;;;;;;22624;[1au];AAAA?;tags.crwdcntrl.net.;-47;0
+19:16:32.204210;IP;localhost;domain ; localhost;60887;;;;;;22624;0/0/1;-47;;;0
+19:16:32.230594;IP;localhost;domain ; localhost;60887;;;;;;12374;4/0/1;A;13.225.31.91,;A;0
+19:16:32.282119;IP;localhost ;; localhost;;ICMP;;50472;24064;8;;;;;;0
+19:16:32.282141;IP;localhost ;; localhost;;ICMP;;50472;24064;8;;;;;;0
+19:16:32.348678;IP;localhost;42625; localhost;domain;;;;;;2157;[1au];A?;vendorlist.consensu.org.;-52;0
+19:16:32.349105;IP;localhost;42625; localhost;domain;;;;;;19576;[1au];AAAA?;vendorlist.consensu.org.;-52;0
+19:16:32.372056;IP;localhost;domain ; localhost;42625;;;;;;2157;5/0/1;CNAME;dzp5etodm9s0j.cloudfront.net.,;A;0
+19:16:32.374471;IP;localhost;domain ; localhost;42625;;;;;;19576;9/0/1;CNAME;dzp5etodm9s0j.cloudfront.net.,;AAAA;0
+19:16:32.382330;IP;localhost ;; localhost;;ICMP;echo request;50472;24320;8;;;;;;0
+19:16:32.382345;IP;localhost ;; localhost;;ICMP;echo reply;50472;24576;8;;;;;;0
+19:16:32.482537;IP;localhost ;; localhost;;ICMP;echo request;50472;24576;8;;;;;;0
+19:16:32.482558;IP;localhost ;; localhost;;ICMP;echo reply;50472;24832;8;;;;;;0
+19:16:32.582769;IP;localhost ;; localhost;;ICMP;echo request;50472;24832;8;;;;;;0
+19:16:32.582784;IP;localhost ;; localhost;;ICMP;echo reply;50472;25088;8;;;;;;0
+19:16:32.682952;IP;localhost ;; localhost;;ICMP;echo request;50472;25088;8;;;;;;0
+19:16:32.682973;IP;localhost ;; localhost;;ICMP;echo reply;50472;25344;8;;;;;;0
+19:16:32.783152;IP;localhost ;; localhost;;ICMP;echo request;50472;25344;8;;;;;;0
+19:16:32.783166;IP;localhost ;; localhost;;ICMP;echo reply;50472;25600;8;;;;;;0
+19:16:32.883344;IP;localhost ;; localhost;;ICMP;echo request;50472;25600;8;;;;;;0
+19:16:32.883359;IP;localhost ;; localhost;;ICMP;echo reply;50472;25600;8;;;;;;0
+19:16:32.955648;IP;localhost;34910; localhost;domain;;;;;;33234;[1au];A?;api.rlcdn.com.;-42;0
+19:16:32.956021;IP;localhost;34910; localhost;domain;;;;;;18908;[1au];AAAA?;api.rlcdn.com.;-42;0
+19:16:32.956129;IP;localhost;domain ; localhost;34910;;;;;;18908;0/0/1;-42;;;0
+19:16:32.957144;IP;localhost;57165; localhost;domain;;;;;;43346;[1au];A?;api.rlcdn.com.;-42;0
+19:16:32.977348;IP;localhost;domain ; localhost;57165;;;;;;43346;1/0/1;A;35.244.174.68;-58;0
+19:16:32.977387;IP;localhost;domain ; localhost;34910;;;;;;33234;1/0/1;A;35.244.174.68;-58;0
+19:16:32.983602;IP;localhost ;; localhost;;ICMP;echo request;50472;25856;8;;;;;;0
+19:16:32.983616;IP;localhost ;; localhost;;ICMP;echo reply;50472;26112;8;;;;;;0
+19:16:33.083757;IP;localhost ;; localhost;;ICMP;echo request;50472;26112;8;;;;;;0
+19:16:33.083773;IP;localhost ;; localhost;;ICMP;echo reply;50472;26368;8;;;;;;0
+19:16:33.184449;IP;localhost ;; localhost;;ICMP;echo request;50472;26368;8;;;;;;0
+19:16:33.184464;IP;localhost ;; localhost;;ICMP;echo reply;50472;26624;8;;;;;;0
+19:16:33.284670;IP;localhost ;; localhost;;ICMP;echo request;50472;26624;8;;;;;;0
+19:16:33.284689;IP;localhost ;; localhost;;ICMP;echo reply;50472;26624;8;;;;;;0
+19:16:33.333658;IP;localhost;44830; localhost;domain;;;;;;38270;[1au];A?;ana.tunnl.com.;-42;0
+19:16:33.334194;IP;localhost;44830; localhost;domain;;;;;;20873;[1au];AAAA?;ana.tunnl.com.;-42;0
+19:16:33.335109;IP;localhost;39848; localhost;domain;;;;;;14761;[1au];A?;ana.tunnl.com.;-42;0
+19:16:33.357551;IP;localhost;domain ; localhost;44830;;;;;;20873;0/0/1;-42;;;0
+19:16:33.357640;IP;localhost;domain ; localhost;39848;;;;;;14761;1/0/1;A;35.190.43.247;-58;0
+19:16:33.357670;IP;localhost;domain ; localhost;44830;;;;;;38270;1/0/1;A;35.190.43.247;-58;0
+19:16:33.384859;IP;localhost ;; localhost;;ICMP;echo request;50472;26880;8;;;;;;0
+19:16:33.384874;IP;localhost ;; localhost;;ICMP;echo reply;50472;26880;8;;;;;;0
+19:16:33.461024;IP;localhost;42212; localhost;domain;;;;;;16046;[1au];A?;hb.improvedigital.com.;-50;0
+19:16:33.461398;IP;localhost;42212; localhost;domain;;;;;;11961;[1au];AAAA?;hb.improvedigital.com.;-50;0
+19:16:33.462775;IP;localhost;57695; localhost;domain;;;;;;30283;[1au];A?;hb.improvedigital.com.;-50;0
+19:16:33.482882;IP;localhost;domain ; localhost;57695;;;;;;30283;4/0/1;CNAME;di-8nxpb9q8.leasewebultracdn.com.,;C;0
+19:16:33.483125;IP;localhost;domain ; localhost;42212;;;;;;16046;4/0/1;CNAME;di-8nxpb9q8.leasewebultracdn.com.,;C;0
+19:16:33.484748;IP;localhost;domain ; localhost;42212;;;;;;11961;2/0/1;CNAME;di-8nxpb9q8.leasewebultracdn.com.,;C;0
+19:16:33.485547;IP;localhost ;; localhost;;ICMP;echo request;50472;27136;8;;;;;;0
+19:16:33.485559;IP;localhost ;; localhost;;ICMP;echo reply;50472;27392;8;;;;;;0
+19:16:33.585753;IP;localhost ;; localhost;;ICMP;echo request;50472;27392;8;;;;;;0
+19:16:33.585768;IP;localhost ;; localhost;;ICMP;echo reply;50472;27648;8;;;;;;0
+19:16:33.685948;IP;localhost ;; localhost;;ICMP;echo request;50472;27648;8;;;;;;0
+19:16:33.685962;IP;localhost ;; localhost;;ICMP;echo reply;50472;27904;8;;;;;;0
+19:16:33.786661;IP;localhost ;; localhost;;ICMP;echo request;50472;27904;8;;;;;;0

@@ -1,0 +1,501 @@
+Heure;Protocole1;IPSource;PortSource;IPDestination;PortDestination;Protocole2;Typedepaquet;id;seq;length;Flags;A;B;C;D;Label
+19:54:36.155271;IP;localhost;54672; localhost;domain;;;;;;32152;[1au];A?;ssc.33across.com.;-45;1
+19:54:36.155693;IP;localhost;54672; localhost;domain;;;;;;20899;[1au];AAAA?;ssc.33across.com.;-45;1
+19:54:36.176885;IP;localhost;domain ; localhost;54672;;;;;;32152;3/0/1;CNAME;33xchange-1576862511.us-east-1.elb.amazonaws.com.,;A;1
+19:54:36.180395;IP;localhost;domain ; localhost;54672;;;;;;20899;1/0/1;CNAME;33xchange-1576862511.us-east-1.elb.amazonaws.com.;-104;1
+19:54:36.229315;IP;localhost;47528; localhost;domain;;;;;;38509;[1au];A?;eu-u.openx.net.;-43;1
+19:54:36.229749;IP;localhost;47528; localhost;domain;;;;;;56951;[1au];AAAA?;eu-u.openx.net.;-43;1
+19:54:36.229892;IP;localhost;domain ; localhost;47528;;;;;;56951;0/0/1;-43;;;1
+19:54:36.250824;IP;localhost;domain ; localhost;47528;;;;;;38509;1/0/1;A;34.95.120.147;-59;1
+19:54:36.852419;IP;localhost;41049; localhost;domain;;;;;;63;[1au];PTR?;53.0.0.127.in-addr.arpa.;-52;1
+19:54:36.852583;IP;localhost;domain ; localhost;41049;;;;;;63;1/0/1;PTR;localhost.;-75;1
+19:54:37.092965;IP;localhost;51185; localhost;domain;;;;;;29898;[1au];A?;pagead2.googlesyndication.com.;-58;1
+19:54:37.093323;IP;localhost;domain ; localhost;51185;;;;;;29898;2/0/1;CNAME;pagead46.l.doubleclick.net.,;A;1
+19:54:37.093359;IP;localhost;51185; localhost;domain;;;;;;20695;[1au];AAAA?;pagead2.googlesyndication.com.;-58;1
+19:54:37.093509;IP;localhost;domain ; localhost;51185;;;;;;20695;2/0/1;CNAME;pagead46.l.doubleclick.net.,;AAAA;1
+19:54:37.125429;IP;localhost;36221; localhost;domain;;;;;;33835;[1au];A?;adserver.adtechus.com.;-50;1
+19:54:37.125993;IP;localhost;36221; localhost;domain;;;;;;45109;[1au];AAAA?;adserver.adtechus.com.;-50;1
+19:54:37.149092;IP;localhost;domain ; localhost;36221;;;;;;33835;4/0/1;CNAME;cs673.wpc.thetacdn.net.,;CNAME;1
+19:54:37.150931;IP;localhost;domain ; localhost;36221;;;;;;45109;3/0/1;CNAME;cs673.wpc.thetacdn.net.,;CNAME;1
+19:54:37.240235;IP;localhost;60498; localhost;domain;;;;;;48367;[1au];A?;tpc.googlesyndication.com.;-54;1
+19:54:37.240639;IP;localhost;60498; localhost;domain;;;;;;251;[1au];AAAA?;tpc.googlesyndication.com.;-54;1
+19:54:37.261966;IP;localhost;domain ; localhost;60498;;;;;;48367;1/0/1;A;172.217.22.129;-70;1
+19:54:37.263883;IP;localhost;domain ; localhost;60498;;;;;;251;1/0/1;AAAA;2a00:1450:4007:812::2001;-82;1
+19:54:37.509610;IP;localhost;53840; localhost;domain;;;;;;32119;[1au];A?;psa.carambo.la.;-43;1
+19:54:37.510183;IP;localhost;53840; localhost;domain;;;;;;55681;[1au];AAAA?;psa.carambo.la.;-43;1
+19:54:37.532836;IP;localhost;domain ; localhost;53840;;;;;;32119;3/0/1;CNAME;cbola-psa.us-east-1.elasticbeanstalk.com.,;A;1
+19:54:37.534501;IP;localhost;domain ; localhost;53840;;;;;;55681;1/0/1;CNAME;cbola-psa.us-east-1.elasticbeanstalk.com.;-97;1
+19:54:37.908199;IP;localhost;35068; localhost;domain;;;;;;9861;[1au];A?;sic.33across.com.;-45;1
+19:54:37.908445;IP;localhost;domain ; localhost;35068;;;;;;9861;2/0/1;CNAME;chi.sic.33across.com.,;A;1
+19:54:37.908476;IP;localhost;35068; localhost;domain;;;;;;64142;[1au];AAAA?;sic.33across.com.;-45;1
+19:54:37.908605;IP;localhost;domain ; localhost;35068;;;;;;64142;1/0/1;CNAME;chi.sic.33across.com.;-63;1
+19:54:37.918809;IP;localhost;44344; localhost;domain;;;;;;14018;[1au];A?;sic.33across.com.;-45;1
+19:54:37.919087;IP;localhost;domain ; localhost;44344;;;;;;14018;2/0/1;CNAME;chi.sic.33across.com.,;A;1
+19:54:38.133216;IP;localhost;45175; localhost;domain;;;;;;53251;[1au];A?;ib.adnxs.com.;-41;1
+19:54:38.133617;IP;localhost;domain ; localhost;45175;;;;;;53251;10/0/1;CNAME;g.geogslb.com.,;CNAME;1
+19:54:38.133658;IP;localhost;45175; localhost;domain;;;;;;59405;[1au];AAAA?;ib.adnxs.com.;-41;1
+19:54:38.155762;IP;localhost;domain ; localhost;45175;;;;;;59405;2/0/1;CNAME;g.geogslb.com.,;CNAME;1
+19:54:38.162104;IP;localhost;36598; localhost;domain;;;;;;31122;[1au];A?;ib.adnxs.com.;-41;1
+19:54:38.162475;IP;localhost;domain ; localhost;36598;;;;;;31122;10/0/1;CNAME;g.geogslb.com.,;CNAME;1
+19:54:38.162513;IP;localhost;36598; localhost;domain;;;;;;33179;[1au];AAAA?;ib.adnxs.com.;-41;1
+19:54:38.162691;IP;localhost;domain ; localhost;36598;;;;;;33179;2/0/1;CNAME;g.geogslb.com.,;CNAME;1
+19:54:38.186757;IP;localhost;59062; localhost;domain;;;;;;5124;[1au];A?;ib.adnxs.com.;-41;1
+19:54:38.187152;IP;localhost;domain ; localhost;59062;;;;;;5124;10/0/1;CNAME;g.geogslb.com.,;CNAME;1
+19:54:38.187196;IP;localhost;59062; localhost;domain;;;;;;18448;[1au];AAAA?;ib.adnxs.com.;-41;1
+19:54:38.187378;IP;localhost;domain ; localhost;59062;;;;;;18448;2/0/1;CNAME;g.geogslb.com.,;CNAME;1
+19:54:38.341370;IP;localhost;34864; localhost;domain;;;;;;25540;[1au];A?;ssc.33across.com.;-45;1
+19:54:38.341732;IP;localhost;34864; localhost;domain;;;;;;25551;[1au];AAAA?;ssc.33across.com.;-45;1
+19:54:38.365178;IP;localhost;domain ; localhost;34864;;;;;;25551;1/0/1;CNAME;33xchange-1576862511.us-east-1.elb.amazonaws.com.;-104;1
+19:54:38.374159;IP;localhost;47816; localhost;domain;;;;;;63532;[1au];A?;securepubads.g.doubleclick.net.;-59;1
+19:54:38.374461;IP;localhost;domain ; localhost;47816;;;;;;63532;2/0/1;CNAME;partnerad.l.doubleclick.net.,;A;1
+19:54:38.374498;IP;localhost;47816; localhost;domain;;;;;;52279;[1au];AAAA?;securepubads.g.doubleclick.net.;-59;1
+19:54:38.374636;IP;localhost;domain ; localhost;47816;;;;;;52279;1/0/1;CNAME;partnerad.l.doubleclick.net.;-85;1
+19:54:38.384576;IP;localhost;domain ; localhost;34864;;;;;;25540;3/0/1;CNAME;33xchange-1576862511.us-east-1.elb.amazonaws.com.,;A;1
+19:54:39.844417;IP;localhost;32980; localhost;domain;;;;;;12480;[1au];A?;www.facebook.com.;-45;1
+19:54:39.844938;IP;localhost;32980; localhost;domain;;;;;;37067;[1au];AAAA?;www.facebook.com.;-45;1
+19:54:39.867026;IP;localhost;domain ; localhost;32980;;;;;;12480;2/0/1;CNAME;star-mini.c10r.facebook.com.,;A;1
+19:54:39.870614;IP;localhost;domain ; localhost;32980;;;;;;37067;2/0/1;CNAME;star-mini.c10r.facebook.com.,;AAAA;1
+19:54:39.946723;IP;localhost;53333; localhost;domain;;;;;;19167;[1au];A?;assurance.blablacar.fr.;-51;1
+19:54:39.947088;IP;localhost;53333; localhost;domain;;;;;;7917;[1au];AAAA?;assurance.blablacar.fr.;-51;1
+19:54:39.947198;IP;localhost;domain ; localhost;53333;;;;;;7917;0/0/1;-51;;;1
+19:54:39.968308;IP;localhost;domain ; localhost;53333;;;;;;19167;2/0/1;A;185.71.188.127,;A;1
+19:54:40.048665;IP;localhost;47739; localhost;domain;;;;;;48758;[1au];A?;blablacar.fr.;-41;1
+19:54:40.049124;IP;localhost;47739; localhost;domain;;;;;;17024;[1au];AAAA?;blablacar.fr.;-41;1
+19:54:40.070200;IP;localhost;domain ; localhost;47739;;;;;;48758;1/0/1;A;35.244.244.45;-57;1
+19:54:40.111376;IP;localhost;domain ; localhost;47739;;;;;;17024;0/0/1;-41;;;1
+19:54:40.172866;IP;localhost;59717; localhost;domain;;;;;;54552;[1au];A?;www.blablacar.fr.;-45;1
+19:54:40.173077;IP;localhost;domain ; localhost;59717;;;;;;54552;1/0/1;A;35.244.244.45;-61;1
+19:54:40.173115;IP;localhost;59717; localhost;domain;;;;;;7459;[1au];AAAA?;www.blablacar.fr.;-45;1
+19:54:40.173294;IP;localhost;domain ; localhost;59717;;;;;;7459;0/0/1;-45;;;1
+19:54:40.644980;IP;localhost;46824; localhost;domain;;;;;;18236;[1au];A?;cdn.blablacar.com.;-46;1
+19:54:40.646261;IP;localhost;46824; localhost;domain;;;;;;21428;[1au];AAAA?;cdn.blablacar.com.;-46;1
+19:54:40.668264;IP;localhost;domain ; localhost;46824;;;;;;18236;5/0/1;CNAME;d38wby6cog6ksa.cloudfront.net.,;A;1
+19:54:40.670208;IP;localhost;domain ; localhost;46824;;;;;;21428;9/0/1;CNAME;d38wby6cog6ksa.cloudfront.net.,;AAAA;1
+19:54:40.780476;IP;localhost;33864; localhost;domain;;;;;;54019;[1au];A?;sic.33across.com.;-45;1
+19:54:40.780715;IP;localhost;domain ; localhost;33864;;;;;;54019;2/0/1;CNAME;chi.sic.33across.com.,;A;1
+19:54:40.780748;IP;localhost;33864; localhost;domain;;;;;;45837;[1au];AAAA?;sic.33across.com.;-45;1
+19:54:40.785346;IP;localhost;40721; localhost;domain;;;;;;13294;[1au];A?;sic.33across.com.;-45;1
+19:54:40.785576;IP;localhost;domain ; localhost;40721;;;;;;13294;2/0/1;CNAME;chi.sic.33across.com.,;A;1
+19:54:40.802974;IP;localhost;domain ; localhost;33864;;;;;;45837;1/0/1;CNAME;chi.sic.33across.com.;-63;1
+19:54:40.850196;IP;localhost;52822; localhost;domain;;;;;;34693;[1au];A?;ssc.33across.com.;-45;1
+19:54:40.850465;IP;localhost;domain ; localhost;52822;;;;;;34693;3/0/1;CNAME;33xchange-1576862511.us-east-1.elb.amazonaws.com.,;A;1
+19:54:40.850500;IP;localhost;52822; localhost;domain;;;;;;39824;[1au];AAAA?;ssc.33across.com.;-45;1
+19:54:40.850729;IP;localhost;domain ; localhost;52822;;;;;;39824;1/0/1;CNAME;33xchange-1576862511.us-east-1.elb.amazonaws.com.;-104;1
+19:54:40.867797;IP;localhost;53677; localhost;domain;;;;;;45985;[1au];A?;ib.adnxs.com.;-41;1
+19:54:40.868123;IP;localhost;domain ; localhost;53677;;;;;;45985;10/0/1;CNAME;g.geogslb.com.,;CNAME;1
+19:54:40.868163;IP;localhost;53677; localhost;domain;;;;;;41899;[1au];AAAA?;ib.adnxs.com.;-41;1
+19:54:40.868430;IP;localhost;domain ; localhost;53677;;;;;;41899;2/0/1;CNAME;g.geogslb.com.,;CNAME;1
+19:54:40.873567;IP;localhost;45279; localhost;domain;;;;;;44857;[1au];A?;ib.adnxs.com.;-41;1
+19:54:40.873913;IP;localhost;domain ; localhost;45279;;;;;;44857;10/0/1;CNAME;g.geogslb.com.,;CNAME;1
+19:54:40.873953;IP;localhost;45279; localhost;domain;;;;;;17222;[1au];AAAA?;ib.adnxs.com.;-41;1
+19:54:40.874240;IP;localhost;domain ; localhost;45279;;;;;;17222;2/0/1;CNAME;g.geogslb.com.,;CNAME;1
+19:54:40.889111;IP;localhost;49439; localhost;domain;;;;;;32569;[1au];A?;ib.adnxs.com.;-41;1
+19:54:40.889442;IP;localhost;domain ; localhost;49439;;;;;;32569;10/0/1;CNAME;g.geogslb.com.,;CNAME;1
+19:54:40.889482;IP;localhost;49439; localhost;domain;;;;;;23363;[1au];AAAA?;ib.adnxs.com.;-41;1
+19:54:40.889666;IP;localhost;domain ; localhost;49439;;;;;;23363;2/0/1;CNAME;g.geogslb.com.,;CNAME;1
+19:54:41.076840;IP;localhost;47841; localhost;domain;;;;;;37171;[1au];A?;js.datadome.co.;-43;1
+19:54:41.077057;IP;localhost;domain ; localhost;47841;;;;;;37171;1/0/1;A;46.105.200.37;-59;1
+19:54:41.077093;IP;localhost;47841; localhost;domain;;;;;;47422;[1au];AAAA?;js.datadome.co.;-43;1
+19:54:41.077189;IP;localhost;domain ; localhost;47841;;;;;;47422;0/0/1;-43;;;1
+19:54:41.169450;IP;localhost;47346; localhost;domain;;;;;;52435;[1au];A?;securepubads.g.doubleclick.net.;-59;1
+19:54:41.169718;IP;localhost;domain ; localhost;47346;;;;;;52435;2/0/1;CNAME;partnerad.l.doubleclick.net.,;A;1
+19:54:41.169752;IP;localhost;47346; localhost;domain;;;;;;60561;[1au];AAAA?;securepubads.g.doubleclick.net.;-59;1
+19:54:41.169891;IP;localhost;domain ; localhost;47346;;;;;;60561;1/0/1;CNAME;partnerad.l.doubleclick.net.;-85;1
+19:54:44.018411;IP;localhost;55256; localhost;domain;;;;;;1043;[1au];A?;www.googletagmanager.com.;-53;1
+19:54:44.018668;IP;localhost;domain ; localhost;55256;;;;;;1043;2/0/1;CNAME;www-googletagmanager.l.google.com.,;A;1
+19:54:44.018701;IP;localhost;55256; localhost;domain;;;;;;2079;[1au];AAAA?;www.googletagmanager.com.;-53;1
+19:54:44.018842;IP;localhost;domain ; localhost;55256;;;;;;2079;2/0/1;CNAME;www-googletagmanager.l.google.com.,;AAAA;1
+19:54:46.045631;IP;localhost;38244; localhost;domain;;;;;;3975;[1au];A?;connect.facebook.net.;-49;1
+19:54:46.046205;IP;localhost;38244; localhost;domain;;;;;;914;[1au];AAAA?;connect.facebook.net.;-49;1
+19:54:46.066934;IP;localhost;domain ; localhost;38244;;;;;;3975;2/0/1;CNAME;scontent.xx.fbcdn.net.,;A;1
+19:54:46.068699;IP;localhost;domain ; localhost;38244;;;;;;914;2/0/1;CNAME;scontent.xx.fbcdn.net.,;AAAA;1
+19:54:47.490441;IP;localhost;50659; localhost;domain;;;;;;3059;[1au];A?;js-agent.newrelic.com.;-50;1
+19:54:47.491735;IP;localhost;50659; localhost;domain;;;;;;49151;[1au];AAAA?;js-agent.newrelic.com.;-50;1
+19:54:47.523769;IP;localhost;domain ; localhost;50659;;;;;;49151;1/0/1;CNAME;f4.shared.global.fastly.net.;-91;1
+19:54:47.523859;IP;localhost;domain ; localhost;50659;;;;;;3059;2/0/1;CNAME;f4.shared.global.fastly.net.,;A;1
+19:54:47.766290;IP;localhost;54668; localhost;domain;;;;;;10451;[1au];A?;bam.nr-data.net.;-44;1
+19:54:47.766584;IP;localhost;domain ; localhost;54668;;;;;;10451;4/0/1;A;162.247.242.18,;A;1
+19:54:47.766628;IP;localhost;54668; localhost;domain;;;;;;27871;[1au];AAAA?;bam.nr-data.net.;-44;1
+19:54:47.789209;IP;localhost;domain ; localhost;54668;;;;;;27871;0/0/1;-44;;;1
+19:54:49.455231;IP;localhost;45751; localhost;domain;;;;;;41099;[1au];A?;analytics.carambo.la.;-49;1
+19:54:49.455944;IP;localhost;45751; localhost;domain;;;;;;8345;[1au];AAAA?;analytics.carambo.la.;-49;1
+19:54:49.477361;IP;localhost;domain ; localhost;45751;;;;;;41099;5/0/1;CNAME;cbola-analytics-c5-6.us-east-1.elasticbeanstalk.com.,;A;1
+19:54:49.479601;IP;localhost;domain ; localhost;45751;;;;;;8345;1/0/1;CNAME;cbola-analytics-c5-6.us-east-1.elasticbeanstalk.com.;-114;1
+19:54:49.770838;IP;localhost;42920; localhost;domain;;;;;;49339;[1au];A?;www.google.com.;-43;1
+19:54:49.771131;IP;localhost;domain ; localhost;42920;;;;;;49339;1/0/1;A;216.58.198.196;-59;1
+19:54:49.771273;IP;localhost;42920; localhost;domain;;;;;;61636;[1au];AAAA?;www.google.com.;-43;1
+19:54:49.771396;IP;localhost;domain ; localhost;42920;;;;;;61636;1/0/1;AAAA;2a00:1450:4007:816::2004;-71;1
+19:54:50.236033;IP;localhost;51320; localhost;domain;;;;;;44650;[1au];A?;analytics.carambo.la.;-49;1
+19:54:50.236302;IP;localhost;domain ; localhost;51320;;;;;;44650;5/0/1;CNAME;cbola-analytics-c5-6.us-east-1.elasticbeanstalk.com.,;A;1
+19:54:50.236336;IP;localhost;51320; localhost;domain;;;;;;12918;[1au];AAAA?;analytics.carambo.la.;-49;1
+19:54:50.236480;IP;localhost;domain ; localhost;51320;;;;;;12918;1/0/1;CNAME;cbola-analytics-c5-6.us-east-1.elasticbeanstalk.com.;-114;1
+19:54:50.265296;IP;localhost;38893; localhost;domain;;;;;;22724;[1au];A?;stats.g.doubleclick.net.;-52;1
+19:54:50.265547;IP;localhost;domain ; localhost;38893;;;;;;22724;5/0/1;CNAME;stats.l.doubleclick.net.,;A;1
+19:54:50.265619;IP;localhost;38893; localhost;domain;;;;;;12495;[1au];AAAA?;stats.g.doubleclick.net.;-52;1
+19:54:50.266815;IP;localhost;59953; localhost;domain;;;;;;30394;[1au];A?;media.carambo.la.;-45;1
+19:54:50.267367;IP;localhost;domain ; localhost;59953;;;;;;30394;3/0/1;CNAME;cs807.wac.13115.alphacdn.net.,;CNAME;1
+19:54:50.267980;IP;localhost;59953; localhost;domain;;;;;;27335;[1au];AAAA?;media.carambo.la.;-45;1
+19:54:50.268362;IP;localhost;domain ; localhost;59953;;;;;;27335;2/0/1;CNAME;cs807.wac.13115.alphacdn.net.,;CNAME;1
+19:54:50.279650;IP;localhost;37549; localhost;domain;;;;;;64250;[1au];A?;de.tynt.com.;-40;1
+19:54:50.280101;IP;localhost;37549; localhost;domain;;;;;;17925;[1au];AAAA?;de.tynt.com.;-40;1
+19:54:50.280247;IP;localhost;domain ; localhost;37549;;;;;;17925;0/0/1;-40;;;1
+19:54:50.289663;IP;localhost;domain ; localhost;38893;;;;;;12495;2/0/1;CNAME;stats.l.doubleclick.net.,;AAAA;1
+19:54:50.304033;IP;localhost;domain ; localhost;37549;;;;;;64250;1/0/1;A;67.202.110.33;-56;1
+19:54:50.403839;IP;localhost;56033; localhost;domain;;;;;;42008;[1au];A?;www.1001jeux.fr.;-44;1
+19:54:50.404511;IP;localhost;56033; localhost;domain;;;;;;50211;[1au];AAAA?;www.1001jeux.fr.;-44;1
+19:54:50.407094;IP;localhost;40151; localhost;domain;;;;;;48131;[1au];A?;www.1001jeux.fr.;-44;1
+19:54:50.426377;IP;localhost;domain ; localhost;56033;;;;;;42008;2/0/1;A;104.26.2.46,;A;1
+19:54:50.426417;IP;localhost;domain ; localhost;40151;;;;;;48131;2/0/1;A;104.26.2.46,;A;1
+19:54:50.428028;IP;localhost;domain ; localhost;56033;;;;;;50211;2/0/1;AAAA;2606:4700:20::681a:32e,;AAAA;1
+19:54:50.577340;IP;localhost;54695; localhost;domain;;;;;;55612;[1au];A?;logging.carambo.la.;-47;1
+19:54:50.577953;IP;localhost;54695; localhost;domain;;;;;;62793;[1au];AAAA?;logging.carambo.la.;-47;1
+19:54:50.599329;IP;localhost;domain ; localhost;54695;;;;;;55612;3/0/1;CNAME;cbola-logging-1-t3.us-east-1.elasticbeanstalk.com.,;A;1
+19:54:50.602844;IP;localhost;domain ; localhost;54695;;;;;;62793;1/0/1;CNAME;cbola-logging-1-t3.us-east-1.elasticbeanstalk.com.;-110;1
+19:54:51.771917;IP;localhost;55383; localhost;domain;;;;;;1311;[1au];A?;outlook.live.com.;-45;1
+19:54:51.772376;IP;localhost;55383; localhost;domain;;;;;;62762;[1au];AAAA?;outlook.live.com.;-45;1
+19:54:51.799522;IP;localhost;domain ; localhost;55383;;;;;;1311;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:54:51.800257;IP;localhost;domain ; localhost;55383;;;;;;62762;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:54:51.950328;IP;localhost;44020; localhost;domain;;;;;;59444;[1au];A?;ccf.admeen.org.;-43;1
+19:54:51.950922;IP;localhost;44020; localhost;domain;;;;;;12357;[1au];AAAA?;ccf.admeen.org.;-43;1
+19:54:51.953729;IP;localhost;43981; localhost;domain;;;;;;27860;[1au];A?;ccf.admeen.org.;-43;1
+19:54:51.973333;IP;localhost;domain ; localhost;44020;;;;;;59444;2/0/1;A;104.24.17.66,;A;1
+19:54:51.973384;IP;localhost;domain ; localhost;43981;;;;;;27860;2/0/1;A;104.24.17.66,;A;1
+19:54:51.975746;IP;localhost;domain ; localhost;44020;;;;;;12357;0/0/1;-43;;;1
+19:54:51.985025;IP;localhost;34578; localhost;domain;;;;;;9426;[1au];A?;tcf.admeen.org.;-43;1
+19:54:51.985527;IP;localhost;34578; localhost;domain;;;;;;16607;[1au];AAAA?;tcf.admeen.org.;-43;1
+19:54:51.988043;IP;localhost;45619; localhost;domain;;;;;;27759;[1au];A?;tcf.admeen.org.;-43;1
+19:54:52.009547;IP;localhost;domain ; localhost;34578;;;;;;16607;0/0/1;-43;;;1
+19:54:52.009689;IP;localhost;domain ; localhost;45619;;;;;;27759;2/0/1;A;104.24.17.66,;A;1
+19:54:52.009729;IP;localhost;domain ; localhost;34578;;;;;;9426;2/0/1;A;104.24.17.66,;A;1
+19:54:53.863564;IP;localhost;53484; localhost;domain;;;;;;41325;[1au];A?;ams1-ib.adnxs.com.;-46;1
+19:54:53.864005;IP;localhost;53484; localhost;domain;;;;;;14714;[1au];AAAA?;ams1-ib.adnxs.com.;-46;1
+19:54:53.885225;IP;localhost;domain ; localhost;53484;;;;;;41325;8/0/1;A;185.33.221.15,;A;1
+19:54:53.886466;IP;localhost;52773; localhost;domain;;;;;;10424;[1au];A?;rb.adnxs.com.;-41;1
+19:54:53.886960;IP;localhost;52773; localhost;domain;;;;;;9414;[1au];AAAA?;rb.adnxs.com.;-41;1
+19:54:53.889720;IP;localhost;domain ; localhost;53484;;;;;;14714;0/0/1;-46;;;1
+19:54:53.907663;IP;localhost;domain ; localhost;52773;;;;;;10424;8/0/1;A;37.252.167.200,;A;1
+19:54:53.909367;IP;localhost;domain ; localhost;52773;;;;;;9414;0/0/1;-41;;;1
+19:54:53.931855;IP;localhost;56538; localhost;domain;;;;;;8620;[1au];A?;ow2.res.office365.com.;-50;1
+19:54:53.932221;IP;localhost;56538; localhost;domain;;;;;;59830;[1au];AAAA?;ow2.res.office365.com.;-50;1
+19:54:53.932663;IP;localhost;45186; localhost;domain;;;;;;24998;[1au];A?;fra1-ib.adnxs.com.;-46;1
+19:54:53.932908;IP;localhost;45186; localhost;domain;;;;;;19884;[1au];AAAA?;fra1-ib.adnxs.com.;-46;1
+19:54:53.952303;IP;localhost;52982; localhost;domain;;;;;;61725;[1au];A?;outlook.live.com.;-45;1
+19:54:53.952687;IP;localhost;domain ; localhost;52982;;;;;;61725;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:54:53.952721;IP;localhost;52982; localhost;domain;;;;;;60711;[1au];AAAA?;outlook.live.com.;-45;1
+19:54:53.953011;IP;localhost;domain ; localhost;52982;;;;;;60711;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:54:53.953808;IP;localhost;domain ; localhost;56538;;;;;;8620;3/0/1;CNAME;ow2.res.office365.com.edgekey.net.,;CNAME;1
+19:54:53.956226;IP;localhost;domain ; localhost;45186;;;;;;19884;0/0/1;-46;;;1
+19:54:53.956526;IP;localhost;domain ; localhost;56538;;;;;;59830;4/0/1;CNAME;ow2.res.office365.com.edgekey.net.,;CNAME;1
+19:54:53.956648;IP;localhost;domain ; localhost;45186;;;;;;24998;8/0/1;A;37.252.173.62,;A;1
+19:54:53.962989;IP;localhost;44345; localhost;domain;;;;;;33061;[1au];A?;azcus1-client-s.gateway.messenger.live.com.;-71;1
+19:54:53.963543;IP;localhost;44345; localhost;domain;;;;;;2353;[1au];AAAA?;azcus1-client-s.gateway.messenger.live.com.;-71;1
+19:54:53.969986;IP;localhost;53719; localhost;domain;;;;;;64918;[1au];A?;outlook.live.com.;-45;1
+19:54:53.970359;IP;localhost;domain ; localhost;53719;;;;;;64918;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:54:53.970393;IP;localhost;53719; localhost;domain;;;;;;64928;[1au];AAAA?;outlook.live.com.;-45;1
+19:54:53.970762;IP;localhost;domain ; localhost;53719;;;;;;64928;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:54:53.985567;IP;localhost;domain ; localhost;44345;;;;;;33061;3/0/1;CNAME;azcus1-client-s.msnmessenger.msn.com.akadns.net.,;CNAME;1
+19:54:53.986420;IP;localhost;38318; localhost;domain;;;;;;27098;[1au];A?;browser.pipe.aria.microsoft.com.;-60;1
+19:54:53.986968;IP;localhost;38318; localhost;domain;;;;;;18921;[1au];AAAA?;browser.pipe.aria.microsoft.com.;-60;1
+19:54:53.987713;IP;localhost;domain ; localhost;44345;;;;;;2353;2/0/1;CNAME;azcus1-client-s.msnmessenger.msn.com.akadns.net.,;CNAME;1
+19:54:54.008518;IP;localhost;domain ; localhost;38318;;;;;;27098;3/0/1;CNAME;browser.events.data.trafficmanager.net.,;CNAME;1
+19:54:54.032093;IP;localhost;domain ; localhost;38318;;;;;;18921;2/0/1;CNAME;browser.events.data.trafficmanager.net.,;CNAME;1
+19:54:54.063792;IP;localhost;58365; localhost;domain;;;;;;25030;[1au];A?;go.trouter.skype.com.;-49;1
+19:54:54.064244;IP;localhost;58365; localhost;domain;;;;;;59857;[1au];AAAA?;go.trouter.skype.com.;-49;1
+19:54:54.078031;IP;localhost;41455; localhost;domain;;;;;;22693;[1au];A?;sfnam.loki.delve.office.com.;-56;1
+19:54:54.078507;IP;localhost;41455; localhost;domain;;;;;;3248;[1au];AAAA?;sfnam.loki.delve.office.com.;-56;1
+19:54:54.086250;IP;localhost;domain ; localhost;58365;;;;;;25030;2/0/1;CNAME;root.skype-edf.akadns.net.,;A;1
+19:54:54.100827;IP;localhost;40034; localhost;domain;;;;;;21789;[1au];A?;azcus1-client-s.gateway.messenger.live.com.;-71;1
+19:54:54.101157;IP;localhost;domain ; localhost;40034;;;;;;21789;3/0/1;CNAME;azcus1-client-s.msnmessenger.msn.com.akadns.net.,;CNAME;1
+19:54:54.101192;IP;localhost;40034; localhost;domain;;;;;;59688;[1au];AAAA?;azcus1-client-s.gateway.messenger.live.com.;-71;1
+19:54:54.101400;IP;localhost;domain ; localhost;40034;;;;;;59688;2/0/1;CNAME;azcus1-client-s.msnmessenger.msn.com.akadns.net.,;CNAME;1
+19:54:54.113793;IP;localhost;domain ; localhost;58365;;;;;;59857;1/0/1;CNAME;root.skype-edf.akadns.net.;-88;1
+19:54:54.128876;IP;localhost;48769; localhost;domain;;;;;;25976;[1au];A?;outlook.live.com.;-45;1
+19:54:54.129320;IP;localhost;domain ; localhost;48769;;;;;;25976;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:54:54.129358;IP;localhost;48769; localhost;domain;;;;;;11650;[1au];AAAA?;outlook.live.com.;-45;1
+19:54:54.129628;IP;localhost;domain ; localhost;48769;;;;;;11650;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:54:54.145755;IP;localhost;domain ; localhost;41455;;;;;;22693;3/0/1;CNAME;fast-prod-atm-sfnam.trafficmanager.net.,;CNAME;1
+19:54:54.265814;IP;localhost;domain ; localhost;41455;;;;;;3248;2/0/1;CNAME;fast-prod-atm-sfnam.trafficmanager.net.,;CNAME;1
+19:54:54.326096;IP;localhost;55753; localhost;domain;;;;;;9697;[1au];A?;browser.pipe.aria.microsoft.com.;-60;1
+19:54:54.326747;IP;localhost;55753; localhost;domain;;;;;;492;[1au];AAAA?;browser.pipe.aria.microsoft.com.;-60;1
+19:54:54.327109;IP;localhost;domain ; localhost;55753;;;;;;492;2/0/1;CNAME;browser.events.data.trafficmanager.net.,;CNAME;1
+19:54:54.348938;IP;localhost;domain ; localhost;55753;;;;;;9697;3/0/1;CNAME;browser.events.data.trafficmanager.net.,;CNAME;1
+19:54:54.955581;IP;localhost;36638; localhost;domain;;;;;;13714;[1au];A?;go.trouter.skype.com.;-49;1
+19:54:54.955849;IP;localhost;domain ; localhost;36638;;;;;;13714;2/0/1;CNAME;root.skype-edf.akadns.net.,;A;1
+19:54:54.955882;IP;localhost;36638; localhost;domain;;;;;;7581;[1au];AAAA?;go.trouter.skype.com.;-49;1
+19:54:54.956028;IP;localhost;domain ; localhost;36638;;;;;;7581;1/0/1;CNAME;root.skype-edf.akadns.net.;-88;1
+19:54:55.129517;IP;localhost;59939; localhost;domain;;;;;;35150;[1au];A?;outlook.live.com.;-45;1
+19:54:55.130513;IP;localhost;domain ; localhost;59939;;;;;;35150;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:54:55.130571;IP;localhost;59939; localhost;domain;;;;;;20827;[1au];AAAA?;outlook.live.com.;-45;1
+19:54:55.131187;IP;localhost;domain ; localhost;59939;;;;;;20827;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:54:55.140679;IP;localhost;54552; localhost;domain;;;;;;34166;[1au];A?;outlook.live.com.;-45;1
+19:54:55.141138;IP;localhost;domain ; localhost;54552;;;;;;34166;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:54:55.141459;IP;localhost;54552; localhost;domain;;;;;;20864;[1au];AAAA?;outlook.live.com.;-45;1
+19:54:55.141751;IP;localhost;domain ; localhost;54552;;;;;;20864;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:54:55.503984;IP;localhost;44929; localhost;domain;;;;;;57920;[1au];A?;outlook-1.cdn.office.net.;-53;1
+19:54:55.504468;IP;localhost;44929; localhost;domain;;;;;;21072;[1au];AAAA?;outlook-1.cdn.office.net.;-53;1
+19:54:55.525743;IP;localhost;domain ; localhost;44929;;;;;;57920;3/0/1;CNAME;outlook-1.cdn.office.net.edgekey.net.,;CNAME;1
+19:54:55.527520;IP;localhost;domain ; localhost;44929;;;;;;21072;5/0/1;CNAME;outlook-1.cdn.office.net.edgekey.net.,;CNAME;1
+19:54:55.532836;IP;localhost;54358; localhost;domain;;;;;;61540;[1au];A?;outlook-1.cdn.office.net.;-53;1
+19:54:55.533186;IP;localhost;domain ; localhost;54358;;;;;;61540;3/0/1;CNAME;outlook-1.cdn.office.net.edgekey.net.,;CNAME;1
+19:54:55.533224;IP;localhost;54358; localhost;domain;;;;;;46190;[1au];AAAA?;outlook-1.cdn.office.net.;-53;1
+19:54:55.533429;IP;localhost;domain ; localhost;54358;;;;;;46190;5/0/1;CNAME;outlook-1.cdn.office.net.edgekey.net.,;CNAME;1
+19:54:55.539551;IP;localhost;42359; localhost;domain;;;;;;8376;[1au];A?;outlook-1.cdn.office.net.;-53;1
+19:54:55.539918;IP;localhost;domain ; localhost;42359;;;;;;8376;3/0/1;CNAME;outlook-1.cdn.office.net.edgekey.net.,;CNAME;1
+19:54:55.539955;IP;localhost;42359; localhost;domain;;;;;;11458;[1au];AAAA?;outlook-1.cdn.office.net.;-53;1
+19:54:55.540269;IP;localhost;domain ; localhost;42359;;;;;;11458;5/0/1;CNAME;outlook-1.cdn.office.net.edgekey.net.,;CNAME;1
+19:54:55.549231;IP;localhost;48324; localhost;domain;;;;;;11438;[1au];A?;outlook-1.cdn.office.net.;-53;1
+19:54:55.549601;IP;localhost;domain ; localhost;48324;;;;;;11438;3/0/1;CNAME;outlook-1.cdn.office.net.edgekey.net.,;CNAME;1
+19:54:55.549640;IP;localhost;48324; localhost;domain;;;;;;35000;[1au];AAAA?;outlook-1.cdn.office.net.;-53;1
+19:54:55.549849;IP;localhost;domain ; localhost;48324;;;;;;35000;5/0/1;CNAME;outlook-1.cdn.office.net.edgekey.net.,;CNAME;1
+19:54:55.555042;IP;localhost;55981; localhost;domain;;;;;;61642;[1au];A?;outlook-1.cdn.office.net.;-53;1
+19:54:55.555484;IP;localhost;domain ; localhost;55981;;;;;;61642;3/0/1;CNAME;outlook-1.cdn.office.net.edgekey.net.,;CNAME;1
+19:54:55.555528;IP;localhost;55981; localhost;domain;;;;;;213;[1au];AAAA?;outlook-1.cdn.office.net.;-53;1
+19:54:55.555743;IP;localhost;domain ; localhost;55981;;;;;;213;5/0/1;CNAME;outlook-1.cdn.office.net.edgekey.net.,;CNAME;1
+19:54:55.588514;IP;localhost;59793; localhost;domain;;;;;;16106;[1au];A?;outlook-1.cdn.office.net.;-53;1
+19:54:55.588948;IP;localhost;domain ; localhost;59793;;;;;;16106;3/0/1;CNAME;outlook-1.cdn.office.net.edgekey.net.,;CNAME;1
+19:54:55.588988;IP;localhost;59793; localhost;domain;;;;;;38644;[1au];AAAA?;outlook-1.cdn.office.net.;-53;1
+19:54:55.589199;IP;localhost;domain ; localhost;59793;;;;;;38644;5/0/1;CNAME;outlook-1.cdn.office.net.edgekey.net.,;CNAME;1
+19:54:55.618269;IP;localhost;37021; localhost;domain;;;;;;16760;[1au];A?;outlook.live.com.;-45;1
+19:54:55.618713;IP;localhost;domain ; localhost;37021;;;;;;16760;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:54:55.618758;IP;localhost;37021; localhost;domain;;;;;;49537;[1au];AAAA?;outlook.live.com.;-45;1
+19:54:55.619176;IP;localhost;domain ; localhost;37021;;;;;;49537;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:54:55.788357;IP;localhost;44097; localhost;domain;;;;;;4680;[1au];A?;outlook.live.com.;-45;1
+19:54:55.788735;IP;localhost;domain ; localhost;44097;;;;;;4680;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:54:55.788769;IP;localhost;44097; localhost;domain;;;;;;32338;[1au];AAAA?;outlook.live.com.;-45;1
+19:54:55.789032;IP;localhost;domain ; localhost;44097;;;;;;32338;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:54:56.139008;IP;localhost;41939; localhost;domain;;;;;;13934;[1au];A?;ow2.res.office365.com.;-50;1
+19:54:56.139872;IP;localhost;41939; localhost;domain;;;;;;39548;[1au];AAAA?;ow2.res.office365.com.;-50;1
+19:54:56.147872;IP;localhost;40591; localhost;domain;;;;;;21005;[1au];A?;outlook.live.com.;-45;1
+19:54:56.148253;IP;localhost;domain ; localhost;40591;;;;;;21005;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:54:56.148288;IP;localhost;40591; localhost;domain;;;;;;22040;[1au];AAAA?;outlook.live.com.;-45;1
+19:54:56.148606;IP;localhost;domain ; localhost;40591;;;;;;22040;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:54:56.162316;IP;localhost;domain ; localhost;41939;;;;;;13934;3/0/1;CNAME;ow2.res.office365.com.edgekey.net.,;CNAME;1
+19:54:56.167142;IP;localhost;domain ; localhost;41939;;;;;;39548;4/0/1;CNAME;ow2.res.office365.com.edgekey.net.,;CNAME;1
+19:54:56.209933;IP;localhost;60968; localhost;domain;;;;;;19208;[1au];A?;api-js.datadome.co.;-47;1
+19:54:56.210457;IP;localhost;60968; localhost;domain;;;;;;24340;[1au];AAAA?;api-js.datadome.co.;-47;1
+19:54:56.233445;IP;localhost;domain ; localhost;60968;;;;;;19208;5/0/1;CNAME;geoprox.datadome.co.,;CNAME;1
+19:54:56.235243;IP;localhost;domain ; localhost;60968;;;;;;24340;2/0/1;CNAME;geoprox.datadome.co.,;CNAME;1
+19:54:56.244415;IP;localhost;56756; localhost;domain;;;;;;54626;[1au];A?;outlook.live.com.;-45;1
+19:54:56.245129;IP;localhost;domain ; localhost;56756;;;;;;54626;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:54:56.245178;IP;localhost;56756; localhost;domain;;;;;;51567;[1au];AAAA?;outlook.live.com.;-45;1
+19:54:56.246026;IP;localhost;domain ; localhost;56756;;;;;;51567;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:54:56.264362;IP;localhost;50422; localhost;domain;;;;;;8295;[1au];A?;outlook.live.com.;-45;1
+19:54:56.264744;IP;localhost;domain ; localhost;50422;;;;;;8295;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:54:56.264778;IP;localhost;50422; localhost;domain;;;;;;15474;[1au];AAAA?;outlook.live.com.;-45;1
+19:54:56.265044;IP;localhost;domain ; localhost;50422;;;;;;15474;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:54:56.328042;IP;localhost;40388; localhost;domain;;;;;;55897;[1au];A?;outlook.live.com.;-45;1
+19:54:56.328454;IP;localhost;domain ; localhost;40388;;;;;;55897;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:54:56.328494;IP;localhost;40388; localhost;domain;;;;;;52835;[1au];AAAA?;outlook.live.com.;-45;1
+19:54:56.328837;IP;localhost;domain ; localhost;40388;;;;;;52835;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:54:56.353398;IP;localhost;39637; localhost;domain;;;;;;61165;[1au];A?;static.ads-twitter.com.;-51;1
+19:54:56.353763;IP;localhost;39637; localhost;domain;;;;;;8952;[1au];AAAA?;static.ads-twitter.com.;-51;1
+19:54:56.376935;IP;localhost;domain ; localhost;39637;;;;;;61165;2/0/1;CNAME;platform.twitter.map.fastly.net.,;A;1
+19:54:56.401205;IP;localhost;58848; localhost;domain;;;;;;60528;[1au];A?;ow2.res.office365.com.;-50;1
+19:54:56.401667;IP;localhost;domain ; localhost;39637;;;;;;8952;1/0/1;CNAME;platform.twitter.map.fastly.net.;-96;1
+19:54:56.401808;IP;localhost;58848; localhost;domain;;;;;;49277;[1au];AAAA?;ow2.res.office365.com.;-50;1
+19:54:56.411990;IP;localhost;54928; localhost;domain;;;;;;30865;[1au];A?;outlook.live.com.;-45;1
+19:54:56.412711;IP;localhost;domain ; localhost;54928;;;;;;30865;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:54:56.412786;IP;localhost;54928; localhost;domain;;;;;;50330;[1au];AAAA?;outlook.live.com.;-45;1
+19:54:56.413092;IP;localhost;domain ; localhost;54928;;;;;;50330;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:54:56.423146;IP;localhost;domain ; localhost;58848;;;;;;60528;3/0/1;CNAME;ow2.res.office365.com.edgekey.net.,;CNAME;1
+19:54:56.425160;IP;localhost;domain ; localhost;58848;;;;;;49277;4/0/1;CNAME;ow2.res.office365.com.edgekey.net.,;CNAME;1
+19:54:56.739993;IP;localhost;34299; localhost;domain;;;;;;15833;[1au];A?;www.howtank.com.;-44;1
+19:54:56.740519;IP;localhost;34299; localhost;domain;;;;;;25060;[1au];AAAA?;www.howtank.com.;-44;1
+19:54:56.761719;IP;localhost;domain ; localhost;34299;;;;;;15833;3/0/1;CNAME;howtank.eu-west-3.elasticbeanstalk.com.,;A;1
+19:54:56.763771;IP;localhost;domain ; localhost;34299;;;;;;25060;1/0/1;CNAME;howtank.eu-west-3.elasticbeanstalk.com.;-93;1
+19:54:56.794296;IP;localhost;47474; localhost;domain;;;;;;33929;[1au];A?;outlook.live.com.;-45;1
+19:54:56.794732;IP;localhost;domain ; localhost;47474;;;;;;33929;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:54:56.794773;IP;localhost;47474; localhost;domain;;;;;;30867;[1au];AAAA?;outlook.live.com.;-45;1
+19:54:56.795139;IP;localhost;domain ; localhost;47474;;;;;;30867;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:54:56.985497;IP;localhost;58990; localhost;domain;;;;;;23837;[1au];A?;t.blablacar.com.;-44;1
+19:54:56.986216;IP;localhost;58990; localhost;domain;;;;;;17704;[1au];AAAA?;t.blablacar.com.;-44;1
+19:54:56.986337;IP;localhost;domain ; localhost;58990;;;;;;17704;0/0/1;-44;;;1
+19:54:57.007588;IP;localhost;domain ; localhost;58990;;;;;;23837;1/0/1;A;35.244.244.45;-60;1
+19:54:57.481209;IP;localhost;42120; localhost;domain;;;;;;5745;[1au];A?;anlc-hwtels.howtank.com.;-52;1
+19:54:57.481671;IP;localhost;42120; localhost;domain;;;;;;38523;[1au];AAAA?;anlc-hwtels.howtank.com.;-52;1
+19:54:57.503362;IP;localhost;domain ; localhost;42120;;;;;;5745;3/0/1;CNAME;analytics-1424815829.eu-west-3.elb.amazonaws.com.,;A;1
+19:54:57.531050;IP;localhost;domain ; localhost;42120;;;;;;38523;1/0/1;CNAME;analytics-1424815829.eu-west-3.elb.amazonaws.com.;-111;1
+19:54:57.649800;IP;localhost;48511; localhost;domain;;;;;;5835;[1au];A?;analytics.twitter.com.;-50;1
+19:54:57.650175;IP;localhost;48511; localhost;domain;;;;;;45781;[1au];AAAA?;analytics.twitter.com.;-50;1
+19:54:57.671441;IP;localhost;domain ; localhost;48511;;;;;;5835;6/0/1;CNAME;ads.twitter.com.,;CNAME;1
+19:54:57.677491;IP;localhost;52513; localhost;domain;;;;;;4737;[1au];A?;t.co.;-33;1
+19:54:57.677714;IP;localhost;domain ; localhost;52513;;;;;;4737;4/0/1;A;104.244.42.5,;A;1
+19:54:57.677754;IP;localhost;52513; localhost;domain;;;;;;37516;[1au];AAAA?;t.co.;-33;1
+19:54:57.695616;IP;localhost;domain ; localhost;48511;;;;;;45781;2/0/1;CNAME;ads.twitter.com.,;CNAME;1
+19:54:57.699976;IP;localhost;domain ; localhost;52513;;;;;;37516;0/0/1;-33;;;1
+19:54:57.793862;IP;localhost;52961; localhost;domain;;;;;;51910;[1au];A?;bam.nr-data.net.;-44;1
+19:54:57.794055;IP;localhost;domain ; localhost;52961;;;;;;51910;4/0/1;A;162.247.242.18,;A;1
+19:54:57.794090;IP;localhost;52961; localhost;domain;;;;;;7891;[1au];AAAA?;bam.nr-data.net.;-44;1
+19:54:57.794267;IP;localhost;domain ; localhost;52961;;;;;;7891;0/0/1;-44;;;1
+19:54:58.005986;IP;localhost;39349; localhost;domain;;;;;;15899;[1au];A?;www.google-analytics.com.;-53;1
+19:54:58.006360;IP;localhost;domain ; localhost;39349;;;;;;15899;2/0/1;CNAME;www-google-analytics.l.google.com.,;A;1
+19:54:58.006404;IP;localhost;39349; localhost;domain;;;;;;6697;[1au];AAAA?;www.google-analytics.com.;-53;1
+19:54:58.006618;IP;localhost;domain ; localhost;39349;;;;;;6697;2/0/1;CNAME;www-google-analytics.l.google.com.,;AAAA;1
+19:54:58.008448;IP;localhost;55165; localhost;domain;;;;;;43725;[1au];A?;www.google-analytics.com.;-53;1
+19:54:58.008752;IP;localhost;domain ; localhost;55165;;;;;;43725;2/0/1;CNAME;www-google-analytics.l.google.com.,;A;1
+19:54:58.033957;IP;localhost;33032; localhost;domain;;;;;;43721;[1au];A?;www.googletagservices.com.;-54;1
+19:54:58.034302;IP;localhost;domain ; localhost;33032;;;;;;43721;2/0/1;CNAME;pagead46.l.doubleclick.net.,;A;1
+19:54:58.034359;IP;localhost;33032; localhost;domain;;;;;;51927;[1au];AAAA?;www.googletagservices.com.;-54;1
+19:54:58.034551;IP;localhost;domain ; localhost;33032;;;;;;51927;2/0/1;CNAME;pagead46.l.doubleclick.net.,;AAAA;1
+19:54:58.068625;IP;localhost;35976; localhost;domain;;;;;;23061;[1au];A?;www.googletagservices.com.;-54;1
+19:54:58.069047;IP;localhost;domain ; localhost;35976;;;;;;23061;2/0/1;CNAME;pagead46.l.doubleclick.net.,;A;1
+19:54:58.069116;IP;localhost;35976; localhost;domain;;;;;;54817;[1au];AAAA?;www.googletagservices.com.;-54;1
+19:54:58.069343;IP;localhost;domain ; localhost;35976;;;;;;54817;2/0/1;CNAME;pagead46.l.doubleclick.net.,;AAAA;1
+19:54:58.665669;IP;localhost;43343; localhost;domain;;;;;;27143;[1au];A?;www.1001jeux.fr.;-44;1
+19:54:58.665954;IP;localhost;domain ; localhost;43343;;;;;;27143;2/0/1;A;104.26.3.46,;A;1
+19:54:58.666001;IP;localhost;43343; localhost;domain;;;;;;22037;[1au];AAAA?;www.1001jeux.fr.;-44;1
+19:54:58.666146;IP;localhost;domain ; localhost;43343;;;;;;22037;2/0/1;AAAA;2606:4700:20::681a:22e,;AAAA;1
+19:55:00.670619;IP;localhost;47412; localhost;domain;;;;;;6048;[1au];A?;8455416.fls.doubleclick.net.;-56;1
+19:55:00.671013;IP;localhost;47412; localhost;domain;;;;;;38827;[1au];AAAA?;8455416.fls.doubleclick.net.;-56;1
+19:55:00.692896;IP;localhost;domain ; localhost;47412;;;;;;6048;2/0/1;CNAME;dart.l.doubleclick.net.,;A;1
+19:55:00.716618;IP;localhost;domain ; localhost;47412;;;;;;38827;1/0/1;CNAME;dart.l.doubleclick.net.;-77;1
+19:55:00.754344;IP;localhost;42791; localhost;domain;;;;;;52554;[1au];A?;www.dwin1.com.;-42;1
+19:55:00.754990;IP;localhost;42791; localhost;domain;;;;;;51542;[1au];AAAA?;www.dwin1.com.;-42;1
+19:55:00.777028;IP;localhost;domain ; localhost;42791;;;;;;52554;5/0/1;CNAME;d2pbcviywxotf2.cloudfront.net.,;A;1
+19:55:00.778675;IP;localhost;domain ; localhost;42791;;;;;;51542;9/0/1;CNAME;d2pbcviywxotf2.cloudfront.net.,;AAAA;1
+19:55:00.854804;IP;localhost;44463; localhost;domain;;;;;;61265;[1au];A?;i.realytics.io.;-43;1
+19:55:00.855198;IP;localhost;44463; localhost;domain;;;;;;51035;[1au];AAAA?;i.realytics.io.;-43;1
+19:55:00.864828;IP;localhost;33595; localhost;domain;;;;;;33602;[1au];A?;dcniko1cv0rz.cloudfront.net.;-56;1
+19:55:00.865268;IP;localhost;33595; localhost;domain;;;;;;55116;[1au];AAAA?;dcniko1cv0rz.cloudfront.net.;-56;1
+19:55:00.876415;IP;localhost;domain ; localhost;44463;;;;;;61265;1/0/1;A;35.180.14.42;-59;1
+19:55:00.878685;IP;localhost;domain ; localhost;44463;;;;;;51035;0/0/1;-43;;;1
+19:55:00.880811;IP;localhost;36506; localhost;domain;;;;;;16307;[1au];A?;blablacar-1.leadsmonitor.io.;-56;1
+19:55:00.881162;IP;localhost;36506; localhost;domain;;;;;;30652;[1au];AAAA?;blablacar-1.leadsmonitor.io.;-56;1
+19:55:00.887459;IP;localhost;domain ; localhost;33595;;;;;;33602;4/0/1;A;13.225.29.59,;A;1
+19:55:00.889506;IP;localhost;domain ; localhost;33595;;;;;;55116;0/0/1;-56;;;1
+19:55:00.890561;IP;localhost;48189; localhost;domain;;;;;;15126;[1au];A?;mmtro.com.;-38;1
+19:55:00.890714;IP;localhost;domain ; localhost;48189;;;;;;15126;1/0/1;A;195.66.82.41;-54;1
+19:55:00.890743;IP;localhost;48189; localhost;domain;;;;;;33565;[1au];AAAA?;mmtro.com.;-38;1
+19:55:00.890894;IP;localhost;domain ; localhost;48189;;;;;;33565;0/0/1;-38;;;1
+19:55:00.901832;IP;localhost;domain ; localhost;36506;;;;;;16307;2/0/1;CNAME;r2d2.leadsmonitor.io.,;A;1
+19:55:00.912956;IP;localhost;38166; localhost;domain;;;;;;49499;[1au];A?;bat.bing.com.;-41;1
+19:55:00.913387;IP;localhost;38166; localhost;domain;;;;;;36197;[1au];AAAA?;bat.bing.com.;-41;1
+19:55:00.930215;IP;localhost;domain ; localhost;36506;;;;;;30652;1/0/1;CNAME;r2d2.leadsmonitor.io.;-75;1
+19:55:00.934495;IP;localhost;domain ; localhost;38166;;;;;;49499;4/0/1;CNAME;bat-bing-com.a-0001.a-msedge.net.,;CNAME;1
+19:55:00.957137;IP;localhost;domain ; localhost;38166;;;;;;36197;2/0/1;CNAME;bat-bing-com.a-0001.a-msedge.net.,;CNAME;1
+19:55:00.996027;IP;localhost;42659; localhost;domain;;;;;;50974;[1au];A?;outlook-1.cdn.office.net.;-53;1
+19:55:00.996374;IP;localhost;domain ; localhost;42659;;;;;;50974;3/0/1;CNAME;outlook-1.cdn.office.net.edgekey.net.,;CNAME;1
+19:55:00.996415;IP;localhost;42659; localhost;domain;;;;;;22313;[1au];AAAA?;outlook-1.cdn.office.net.;-53;1
+19:55:00.996627;IP;localhost;domain ; localhost;42659;;;;;;22313;5/0/1;CNAME;outlook-1.cdn.office.net.edgekey.net.,;CNAME;1
+19:55:01.003879;IP;localhost;38264; localhost;domain;;;;;;6590;[1au];A?;status.geotrust.com.;-48;1
+19:55:01.004381;IP;localhost;38264; localhost;domain;;;;;;13772;[1au];AAAA?;status.geotrust.com.;-48;1
+19:55:01.028400;IP;localhost;domain ; localhost;38264;;;;;;6590;3/0/1;CNAME;ocsp.digicert.com.,;CNAME;1
+19:55:01.030351;IP;localhost;domain ; localhost;38264;;;;;;13772;2/0/1;CNAME;ocsp.digicert.com.,;CNAME;1
+19:55:01.251882;IP;localhost;37814; localhost;domain;;;;;;28337;[1au];A?;status.rapidssl.com.;-48;1
+19:55:01.252314;IP;localhost;37814; localhost;domain;;;;;;2748;[1au];AAAA?;status.rapidssl.com.;-48;1
+19:55:01.274815;IP;localhost;domain ; localhost;37814;;;;;;28337;3/0/1;CNAME;ocsp.digicert.com.,;CNAME;1
+19:55:01.279889;IP;localhost;domain ; localhost;37814;;;;;;2748;2/0/1;CNAME;ocsp.digicert.com.,;CNAME;1
+19:55:02.278785;IP;localhost;58267; localhost;domain;;;;;;63084;[1au];A?;outlook.live.com.;-45;1
+19:55:02.279260;IP;localhost;domain ; localhost;58267;;;;;;63084;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:55:02.279299;IP;localhost;58267; localhost;domain;;;;;;3703;[1au];AAAA?;outlook.live.com.;-45;1
+19:55:02.279663;IP;localhost;domain ; localhost;58267;;;;;;3703;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:55:02.327337;IP;localhost;45527; localhost;domain;;;;;;29900;[1au];A?;outlook.live.com.;-45;1
+19:55:02.327828;IP;localhost;domain ; localhost;45527;;;;;;29900;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:55:02.327975;IP;localhost;45527; localhost;domain;;;;;;41174;[1au];AAAA?;outlook.live.com.;-45;1
+19:55:02.328262;IP;localhost;domain ; localhost;45527;;;;;;41174;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:55:03.065473;IP;localhost;38294; localhost;domain;;;;;;30478;[1au];A?;edge.blablacar.fr.;-46;1
+19:55:03.065747;IP;localhost;domain ; localhost;38294;;;;;;30478;1/0/1;A;35.244.244.45;-62;1
+19:55:03.065798;IP;localhost;38294; localhost;domain;;;;;;20248;[1au];AAAA?;edge.blablacar.fr.;-46;1
+19:55:03.065894;IP;localhost;domain ; localhost;38294;;;;;;20248;0/0/1;-46;;;1
+19:55:03.519980;IP;localhost;50173; localhost;domain;;;;;;39276;[1au];A?;blablacar-2.leadsmonitor.io.;-56;1
+19:55:03.520472;IP;localhost;50173; localhost;domain;;;;;;55670;[1au];AAAA?;blablacar-2.leadsmonitor.io.;-56;1
+19:55:03.542252;IP;localhost;domain ; localhost;50173;;;;;;39276;2/0/1;CNAME;c3po.leadsmonitor.io.,;A;1
+19:55:03.568205;IP;localhost;domain ; localhost;50173;;;;;;55670;1/0/1;CNAME;c3po.leadsmonitor.io.;-75;1
+19:55:04.624226;IP;localhost;40242; localhost;domain;;;;;;33526;[1au];A?;outlook-1.cdn.office.net.;-53;1
+19:55:04.624595;IP;localhost;domain ; localhost;40242;;;;;;33526;3/0/1;CNAME;outlook-1.cdn.office.net.edgekey.net.,;CNAME;1
+19:55:04.624633;IP;localhost;40242; localhost;domain;;;;;;5637;[1au];AAAA?;outlook-1.cdn.office.net.;-53;1
+19:55:04.624928;IP;localhost;domain ; localhost;40242;;;;;;5637;5/0/1;CNAME;outlook-1.cdn.office.net.edgekey.net.,;CNAME;1
+19:55:04.635734;IP;localhost;34445; localhost;domain;;;;;;36424;[1au];A?;outlook-1.cdn.office.net.;-53;1
+19:55:04.636048;IP;localhost;domain ; localhost;34445;;;;;;36424;3/0/1;CNAME;outlook-1.cdn.office.net.edgekey.net.,;CNAME;1
+19:55:04.636083;IP;localhost;34445; localhost;domain;;;;;;64082;[1au];AAAA?;outlook-1.cdn.office.net.;-53;1
+19:55:04.636283;IP;localhost;domain ; localhost;34445;;;;;;64082;5/0/1;CNAME;outlook-1.cdn.office.net.edgekey.net.,;CNAME;1
+19:55:04.639496;IP;localhost;42610; localhost;domain;;;;;;38532;[1au];A?;outlook-1.cdn.office.net.;-53;1
+19:55:04.639814;IP;localhost;domain ; localhost;42610;;;;;;38532;3/0/1;CNAME;outlook-1.cdn.office.net.edgekey.net.,;CNAME;1
+19:55:04.639854;IP;localhost;42610; localhost;domain;;;;;;40590;[1au];AAAA?;outlook-1.cdn.office.net.;-53;1
+19:55:04.640117;IP;localhost;domain ; localhost;42610;;;;;;40590;5/0/1;CNAME;outlook-1.cdn.office.net.edgekey.net.,;CNAME;1
+19:55:05.446907;IP;localhost;50997; localhost;domain;;;;;;55;[1au];A?;customer.fra-01.braze.eu.;-53;1
+19:55:05.447400;IP;localhost;50997; localhost;domain;;;;;;51265;[1au];AAAA?;customer.fra-01.braze.eu.;-53;1
+19:55:05.468879;IP;localhost;domain ; localhost;50997;;;;;;55;2/0/1;CNAME;d2.shared.global.fastly.net.,;A;1
+19:55:05.493409;IP;localhost;domain ; localhost;50997;;;;;;51265;1/0/1;CNAME;d2.shared.global.fastly.net.;-94;1
+19:55:05.516542;IP;localhost;49195; localhost;domain;;;;;;32280;[1au];A?;cdn.mmtro.com.;-42;1
+19:55:05.519503;IP;localhost;49195; localhost;domain;;;;;;31266;[1au];AAAA?;cdn.mmtro.com.;-42;1
+19:55:05.539499;IP;localhost;domain ; localhost;49195;;;;;;32280;5/0/1;CNAME;d3fm84incnm092.cloudfront.net.,;A;1
+19:55:05.544464;IP;localhost;domain ; localhost;49195;;;;;;31266;9/0/1;CNAME;d3fm84incnm092.cloudfront.net.,;AAAA;1
+19:55:05.751389;IP;localhost;43325; localhost;domain;;;;;;13;[1au];A?;tp.realytics.io.;-44;1
+19:55:05.752041;IP;localhost;43325; localhost;domain;;;;;;55320;[1au];AAAA?;tp.realytics.io.;-44;1
+19:55:05.775640;IP;localhost;domain ; localhost;43325;;;;;;55320;0/0/1;-44;;;1
+19:55:05.775650;IP;localhost;domain ; localhost;43325;;;;;;13;1/0/1;A;35.180.59.44;-60;1
+19:55:07.193714;IP;localhost;42679; localhost;domain;;;;;;238;[1au];A?;api.realytics.io.;-45;1
+19:55:07.194175;IP;localhost;42679; localhost;domain;;;;;;22776;[1au];AAAA?;api.realytics.io.;-45;1
+19:55:07.215361;IP;localhost;domain ; localhost;42679;;;;;;238;1/0/1;A;35.180.59.44;-61;1
+19:55:07.218129;IP;localhost;domain ; localhost;42679;;;;;;22776;0/0/1;-45;;;1
+19:55:07.348196;IP;localhost;41899; localhost;domain;;;;;;35049;[1au];A?;bam.nr-data.net.;-44;1
+19:55:07.348578;IP;localhost;domain ; localhost;41899;;;;;;35049;4/0/1;A;162.247.242.18,;A;1
+19:55:07.348632;IP;localhost;41899; localhost;domain;;;;;;46326;[1au];AAAA?;bam.nr-data.net.;-44;1
+19:55:07.348788;IP;localhost;domain ; localhost;41899;;;;;;46326;0/0/1;-44;;;1
+19:55:07.472918;IP;localhost;51550; localhost;domain;;;;;;47564;[1au];A?;bam.nr-data.net.;-44;1
+19:55:07.473169;IP;localhost;domain ; localhost;51550;;;;;;47564;4/0/1;A;162.247.242.18,;A;1
+19:55:07.473316;IP;localhost;51550; localhost;domain;;;;;;58838;[1au];AAAA?;bam.nr-data.net.;-44;1
+19:55:07.473424;IP;localhost;domain ; localhost;51550;;;;;;58838;0/0/1;-44;;;1
+19:55:11.260208;IP;localhost;38523; localhost;domain;;;;;;31407;[1au];A?;outlook-1.cdn.office.net.;-53;1
+19:55:11.260774;IP;localhost;38523; localhost;domain;;;;;;46777;[1au];AAAA?;outlook-1.cdn.office.net.;-53;1
+19:55:11.284031;IP;localhost;domain ; localhost;38523;;;;;;46777;4/0/1;CNAME;outlook-1.cdn.office.net.edgekey.net.,;CNAME;1
+19:55:11.284140;IP;localhost;domain ; localhost;38523;;;;;;31407;3/0/1;CNAME;outlook-1.cdn.office.net.edgekey.net.,;CNAME;1
+19:55:11.415904;IP;localhost;40187; localhost;domain;;;;;;20272;[1au];A?;outlook.live.com.;-45;1
+19:55:11.416292;IP;localhost;domain ; localhost;40187;;;;;;20272;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:55:11.416362;IP;localhost;40187; localhost;domain;;;;;;6970;[1au];AAAA?;outlook.live.com.;-45;1
+19:55:11.416655;IP;localhost;domain ; localhost;40187;;;;;;6970;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:55:11.444378;IP;localhost;39526; localhost;domain;;;;;;37795;[1au];A?;outlook.live.com.;-45;1
+19:55:11.444823;IP;localhost;domain ; localhost;39526;;;;;;37795;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:55:11.444861;IP;localhost;39526; localhost;domain;;;;;;30638;[1au];AAAA?;outlook.live.com.;-45;1
+19:55:11.445124;IP;localhost;domain ; localhost;39526;;;;;;30638;5/0/1;CNAME;live.ms-acdc.office.com.,;CNAME;1
+19:55:11.513942;IP;localhost;49607; localhost;domain;;;;;;53743;[1au];A?;static.h-bid.com.;-45;1
+19:55:11.514568;IP;localhost;49607; localhost;domain;;;;;;49658;[1au];AAAA?;static.h-bid.com.;-45;1
+19:55:11.516728;IP;localhost;35917; localhost;domain;;;;;;55708;[1au];A?;static.h-bid.com.;-45;1
+19:55:11.536032;IP;localhost;domain ; localhost;49607;;;;;;53743;2/0/1;CNAME;429520581.r.cdnsun.net.,;A;1
+19:55:11.536076;IP;localhost;domain ; localhost;35917;;;;;;55708;2/0/1;CNAME;429520581.r.cdnsun.net.,;A;1
+19:55:11.538649;IP;localhost;domain ; localhost;49607;;;;;;49658;1/0/1;CNAME;429520581.r.cdnsun.net.;-81;1
+19:55:12.068625;IP;localhost;33741; localhost;domain;;;;;;10196;[1au];A?;outlook-1.cdn.office.net.;-53;1
+19:55:12.068973;IP;localhost;domain ; localhost;33741;;;;;;10196;3/0/1;CNAME;outlook-1.cdn.office.net.edgekey.net.,;CNAME;1
+19:55:12.069011;IP;localhost;33741; localhost;domain;;;;;;25566;[1au];AAAA?;outlook-1.cdn.office.net.;-53;1
+19:55:12.069227;IP;localhost;domain ; localhost;33741;;;;;;25566;4/0/1;CNAME;outlook-1.cdn.office.net.edgekey.net.,;CNAME;1
+19:55:12.074955;IP;localhost;50154; localhost;domain;;;;;;10175;[1au];A?;outlook-1.cdn.office.net.;-53;1
+19:55:12.075427;IP;localhost;domain ; localhost;50154;;;;;;10175;3/0/1;CNAME;outlook-1.cdn.office.net.edgekey.net.,;CNAME;1
+19:55:12.075479;IP;localhost;50154; localhost;domain;;;;;;11209;[1au];AAAA?;outlook-1.cdn.office.net.;-53;1
+19:55:12.075695;IP;localhost;domain ; localhost;50154;;;;;;11209;4/0/1;CNAME;outlook-1.cdn.office.net.edgekey.net.,;CNAME;1
+19:55:12.087034;IP;localhost;47611; localhost;domain;;;;;;33565;[1au];A?;outlook-1.cdn.office.net.;-53;1
+19:55:12.087382;IP;localhost;domain ; localhost;47611;;;;;;33565;3/0/1;CNAME;outlook-1.cdn.office.net.edgekey.net.,;CNAME;1
+19:55:12.087421;IP;localhost;47611; localhost;domain;;;;;;808;[1au];AAAA?;outlook-1.cdn.office.net.;-53;1
+19:55:12.087724;IP;localhost;domain ; localhost;47611;;;;;;808;4/0/1;CNAME;outlook-1.cdn.office.net.edgekey.net.,;CNAME;1
+19:55:12.761325;IP;localhost;53516; localhost;domain;;;;;;48620;[1au];A?;vendorlist.consensu.org.;-52;1
+19:55:12.761735;IP;localhost;53516; localhost;domain;;;;;;48632;[1au];AAAA?;vendorlist.consensu.org.;-52;1
+19:55:12.762895;IP;localhost;55061; localhost;domain;;;;;;6584;[1au];A?;vendorlist.consensu.org.;-52;1
+19:55:12.783787;IP;localhost;domain ; localhost;53516;;;;;;48620;5/0/1;CNAME;dzp5etodm9s0j.cloudfront.net.,;A;1
+19:55:12.783886;IP;localhost;domain ; localhost;55061;;;;;;6584;5/0/1;CNAME;dzp5etodm9s0j.cloudfront.net.,;A;1
+19:55:12.786278;IP;localhost;domain ; localhost;53516;;;;;;48632;9/0/1;CNAME;dzp5etodm9s0j.cloudfront.net.,;AAAA;1
+19:55:12.835798;IP;localhost;59477; localhost;domain;;;;;;19091;[1au];A?;outlook-1.cdn.office.net.;-53;1
+19:55:12.836650;IP;localhost;domain ; localhost;59477;;;;;;19091;3/0/1;CNAME;outlook-1.cdn.office.net.edgekey.net.,;CNAME;1
+19:55:12.836719;IP;localhost;59477; localhost;domain;;;;;;10912;[1au];AAAA?;outlook-1.cdn.office.net.;-53;1
+19:55:12.837166;IP;localhost;domain ; localhost;59477;;;;;;10912;4/0/1;CNAME;outlook-1.cdn.office.net.edgekey.net.,;CNAME;1
+19:55:13.195517;IP;localhost;41142; localhost;domain;;;;;;53697;[1au];A?;api.rlcdn.com.;-42;1
+19:55:13.197450;IP;localhost;41142; localhost;domain;;;;;;45516;[1au];AAAA?;api.rlcdn.com.;-42;1
+19:55:13.197678;IP;localhost;domain ; localhost;41142;;;;;;45516;0/0/1;-42;;;1
+19:55:13.198945;IP;localhost;53651; localhost;domain;;;;;;34106;[1au];A?;api.rlcdn.com.;-42;1
+19:55:13.217691;IP;localhost;domain ; localhost;41142;;;;;;53697;1/0/1;A;35.244.174.68;-58;1
+19:55:13.217730;IP;localhost;domain ; localhost;53651;;;;;;34106;1/0/1;A;35.244.174.68;-58;1
+19:55:15.303984;IP;localhost;40615; localhost;domain;;;;;;367;[1au];A?;snigel-d.openx.net.;-47;1
+19:55:15.304241;IP;localhost;domain ; localhost;40615;;;;;;367;1/0/1;A;34.95.120.147;-63;1
+19:55:15.304762;IP;localhost;40615; localhost;domain;;;;;;377;[1au];AAAA?;snigel-d.openx.net.;-47;1
+19:55:15.304912;IP;localhost;domain ; localhost;40615;;;;;;377;0/0/1;-47;;;1
+19:55:15.366297;IP;localhost;42152; localhost;domain;;;;;;7635;[1au];A?;prg.smartadserver.com.;-50;1
+19:55:15.366643;IP;localhost;domain ; localhost;42152;;;;;;7635;9/0/1;CNAME;prga.smartadserver.com.,;CNAME;1
+19:55:15.366678;IP;localhost;42152; localhost;domain;;;;;;55774;[1au];AAAA?;prg.smartadserver.com.;-50;1
+19:55:15.366950;IP;localhost;domain ; localhost;42152;;;;;;55774;3/0/1;CNAME;prga.smartadserver.com.,;CNAME;1
+19:55:15.402301;IP;localhost;42501; localhost;domain;;;;;;58109;[1au];A?;prg.smartadserver.com.;-50;1
+19:55:15.402685;IP;localhost;domain ; localhost;42501;;;;;;58109;9/0/1;CNAME;prga.smartadserver.com.,;CNAME;1
+19:55:15.402726;IP;localhost;42501; localhost;domain;;;;;;26120;[1au];AAAA?;prg.smartadserver.com.;-50;1
+19:55:15.403008;IP;localhost;domain ; localhost;42501;;;;;;26120;3/0/1;CNAME;prga.smartadserver.com.,;CNAME;1
+19:55:15.484180;IP;localhost;51189; localhost;domain;;;;;;30101;[1au];A?;fastlane.rubiconproject.com.;-56;1
+19:55:15.484542;IP;localhost;domain ; localhost;51189;;;;;;30101;7/0/1;CNAME;optimized-by.rubiconproject.net.akadns.net.,;CNAME;1
+19:55:15.484579;IP;localhost;51189; localhost;domain;;;;;;51615;[1au];AAAA?;fastlane.rubiconproject.com.;-56;1
+19:55:15.506727;IP;localhost;domain ; localhost;51189;;;;;;51615;2/0/1;CNAME;optimized-by.rubiconproject.net.akadns.net.,;CNAME;1
